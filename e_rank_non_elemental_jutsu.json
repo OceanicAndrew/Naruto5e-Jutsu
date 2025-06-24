@@ -1,253 +1,236 @@
 {
-    "Chakra Hands": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "30 feet",
-        "duration": "1 Minute",
-        "components": [
-            "CM"
-        ],
-        "cost": 1,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you dismiss the jutsu. You can use your action to control the hand.\n\nYou can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. The hand can’t attack, activate chakra items, or carry more than 10 pounds."
-    },
-    "Chakra Movement": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Bonus Action",
-        "range": "Self",
-        "duration": "Instant",
-        "components": [
-            "HS"
-        ],
-        "cost": 1,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "You transfer chakra to the bottom of your feet, creating a strong repulsive force upon release of this jutsu, increasing your movement speed momentarily. Increase your movement speed by 10 until the end of your next turn.\n\nAt Higher Levels: This Jutsu’s movement speed boost increases by 5ft at 5th level (15ft), 11th level (20ft), 17th level (25ft)."
-    },
-    "Chakra Pulse": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "5 feet",
-        "duration": "Instant",
-        "components": [
-            "HS"
-        ],
-        "cost": 2,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "You create a forceful pulse of chakra that erupts from your body. Each creature within 5 feet of you, other than you, must make a Strength Saving Throw or take 2d4 Force Damage and are forced Prone.\n\nAt Higher Levels: This Jutsu’s effectiveness increases by 2d4 at 5th level (4d4), 11th level (6d4), 17th level (8d4)."
-    },
-    "Chakra Blow": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "Weapon's Range",
-        "duration": "Instant",
-        "components": [
-            "HS",
-            "CM",
-            "W(any)"
-        ],
-        "cost": 2,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "You cover your weapon with chakra. Make a weapon attack against one creature within range. On a hit, the target suffers the attack’s normal effects and takes an additional 1d6 damage.\n\nAt Higher Ranks: This Jutsu’s effectiveness increases by 1d6 at 5th level (2d6), 11th level (3d6), 17th level (4d6)."
-    },
-    "Enhanced Defense": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "Self",
-        "duration": "Instant",
-        "components": [
-            "HS"
-        ],
-        "cost": 2,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "You focus chakra into the top layer of your skin, providing you Resistance to Bludgeoning, Piercing, and Slashing Damage until the start of your next turn."
-    },
-    "Enhanced Resistance": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Reaction (when you make a Saving Throw)",
-        "range": "Self",
-        "duration": "Instant",
-        "components": [
-            "HS"
-        ],
-        "cost": 2,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "You focus chakra throughout your body reinforcing it to attacks. You gain a +2 bonus to your Saving Throw."
-    },
-    "Enhanced Skill": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Reaction (when you make a Skill Check using Strength, Dexterity or Constitution)",
-        "range": "Self",
-        "duration": "Instant",
-        "components": [
-            "HS"
-        ],
-        "cost": 2,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "You focus chakra toward different parts of your body to enhance your ability to complete different tasks. You can add +3 to your Skill Check. Once you cast this jutsu, you cannot do so again for 10 minutes."
-    },
-    "Escape Technique": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "Self",
-        "duration": "Instant",
-        "components": [
-            "HS"
-        ],
-        "cost": 2,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "You use chakra to feel the knots of ropes, chains, and other tools used to bind and restrain you. While Restrained or Grappled, you can roll Sleight of Hand in place of the normally required Skill Check or Saving Throw at advantage. On a success, you free yourself."
-    },
-    "Finger Carving Seal": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "Touch",
-        "duration": "Permanent",
-        "components": [
-            "CM",
-            "CS"
-        ],
-        "cost": 1,
-        "keywords": [
-            "Ninjutsu",
-            "Fuinjutsu"
-        ],
-        "description": "You focus chakra into the tip of your finger and use the accumulated heat and energy to apply words, letters and shapes of your choice, no longer than 20 words per action taken. These words can be applied to structures and constructs (no damage) or to a willing creature, leaving a permanent scar."
-    },
-    "Firecracker Flash": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "Touch",
-        "duration": "Instant",
-        "components": [
-            "NT"
-        ],
-        "cost": 2,
-        "keywords": [
-            "Ninjutsu",
-            "Bukijutsu"
-        ],
-        "description": "You take a bundle of flash firecrackers, light them with chakra, and throw them in an arc in front of you. Creatures in a 15‑foot‑wide area must make a Wisdom Saving Throw. On a failed save you gain advantage on your next attack against them and they have disadvantage on their next attack."
-    },
-    "Invisibility Cloak": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "Self",
-        "duration": "Instant",
-        "components": [
-            "NT"
-        ],
-        "cost": 1,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "You quickly pull a chameleon cloak over yourself while against a wall or other standing surface. Roll a Stealth Check with a 1d4+1 bonus to the check."
-    },
-    "Light": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "Touch",
-        "duration": "1 Hour",
-        "components": [
-            "CM"
-        ],
-        "cost": 1,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "You touch one object no larger than 10 feet in any dimension. The object sheds bright light in a 10‑foot radius and dim light for an additional 10 feet. The jutsu ends if you cast it again or dismiss it as an action. If targeting an object held or worn by a hostile creature, it must make a Dexterity Saving Throw to avoid the jutsu."
-    },
-    "Mending": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Minute",
-        "range": "Touch",
-        "duration": "Instant",
-        "components": [
-            "CM"
-        ],
-        "cost": 1,
-        "keywords": [
-            "Ninjutsu"
-        ],
-        "description": "This jutsu repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. The break or tear must be no larger than 1 foot."
-    },
-    "Sealing Art: String Light Formation": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "30 feet",
-        "duration": "Concentration, up to 1 Minute",
-        "components": [
-            "HS",
-            "CM"
-        ],
-        "cost": 2,
-        "keywords": [
-            "Ninjutsu",
-            "Fuinjutsu"
-        ],
-        "description": "You create a sealing formation stretching from yourself to a target creature within range in a straight line. The creature must make a Charisma Saving Throw, reducing both your and the target’s movement speed to 0 on a failed save. Additional users targeting the same creature increase the save DC by +1 each. The target can retry the save at the end of its turns."
-    },
-    "Medical Release: Virtue": {
-        "classification": "Ninjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Action",
-        "range": "Touch",
-        "duration": "1 Round",
-        "components": [
-            "HS",
-            "CM"
-        ],
-        "cost": 1,
-        "keywords": [
-            "Ninjutsu",
-            "Medical"
-        ],
-        "description": "You touch one willing creature, imbuing it with vitality. If the target has at least 1 hit point it gains Temporary Hit Points equal to 1d4 + your Ninjutsu Ability Modifier. The Temporary Hit Points are lost at the end of the creature's next turn."
-    },
-    "Feather Burst": {
-        "classification": "Genjutsu",
-        "rank": "E-Rank",
-        "casting_time": "1 Reaction, which you take when you would take damage.",
-        "range": "Self",
-        "duration": "Instant",
-        "components": [
-            "HS",
-            "CM"
-        ],
-        "cost": 2,
-        "keywords": [
-            "Genjutsu",
-            "Visual"
-        ],
-        "description": "A simple illusion of sight. When hit by an attack, the opponent sees you burst into black raven feathers reforming at your current location. When hit by a melee attack, roll 1d8 reducing damage taken by the result and move 10 feet away. This movement does not provoke attacks of opportunity. At Higher Levels: This Jutsu’s proficiency increases as you increase in level rolling 1d8 when you reach 5th level(2d8), 11th level (3d8), 17th level (4d8)"
-    }
+  "Chakra Hands": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "30 feet",
+    "duration": "1 Minute",
+    "components": [
+      "CM"
+    ],
+    "cost": 1,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you dismiss the jutsu. You can use your action to control the hand.\n\nYou can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. The hand can’t attack, activate chakra items, or carry more than 10 pounds."
+  },
+  "Chakra Movement": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Bonus Action",
+    "range": "Self",
+    "duration": "Instant",
+    "components": [
+      "HS"
+    ],
+    "cost": 1,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You transfer chakra to the bottom of your feet, creating a strong repulsive force upon release of this jutsu, increasing your movement speed momentarily. Increase your movement speed by 10 until the end of your next turn.\n\nAt Higher Levels: This Jutsu’s movement speed boost increases by 5ft at 5th level (15ft), 11th level (20ft), 17th level (25ft)."
+  },
+  "Chakra Pulse": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "5 feet",
+    "duration": "Instant",
+    "components": [
+      "HS"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You create a forceful pulse of chakra that erupts from your body. Each creature within 5 feet of you, other than you, must make a Strength Saving Throw or take 2d4 Force Damage and are forced Prone.\n\nAt Higher Levels: This Jutsu’s effectiveness increases by 2d4 at 5th level (4d4), 11th level (6d4), 17th level (8d4)."
+  },
+  "Chakra Blow": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "Weapon's Range",
+    "duration": "Instant",
+    "components": [
+      "HS",
+      "CM",
+      "W(any)"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You cover your weapon with chakra. Make a weapon attack against one creature within range. On a hit, the target suffers the attack’s normal effects and takes an additional 1d6 damage.\n\nAt Higher Ranks: This Jutsu’s effectiveness increases by 1d6 at 5th level (2d6), 11th level (3d6), 17th level (4d6)."
+  },
+  "Enhanced Defense": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "Self",
+    "duration": "Instant",
+    "components": [
+      "HS"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You focus chakra into the top layer of your skin, providing you Resistance to Bludgeoning, Piercing, and Slashing Damage until the start of your next turn."
+  },
+  "Enhanced Resistance": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Reaction (when you make a Saving Throw)",
+    "range": "Self",
+    "duration": "Instant",
+    "components": [
+      "HS"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You focus chakra throughout your body reinforcing it to attacks. You gain a +2 bonus to your Saving Throw."
+  },
+  "Enhanced Skill": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Reaction (when you make a Skill Check using Strength, Dexterity or Constitution)",
+    "range": "Self",
+    "duration": "Instant",
+    "components": [
+      "HS"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You focus chakra toward different parts of your body to enhance your ability to complete different tasks. You can add +3 to your Skill Check. Once you cast this jutsu, you cannot do so again for 10 minutes."
+  },
+  "Escape Technique": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "Self",
+    "duration": "Instant",
+    "components": [
+      "HS"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You use chakra to feel the knots of ropes, chains, and other tools used to bind and restrain you. While Restrained or Grappled, you can roll Sleight of Hand in place of the normally required Skill Check or Saving Throw at advantage. On a success, you free yourself."
+  },
+  "Finger Carving Seal": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "Touch",
+    "duration": "Permanent",
+    "components": [
+      "CM",
+      "CS"
+    ],
+    "cost": 1,
+    "keywords": [
+      "Ninjutsu",
+      "Fuinjutsu"
+    ],
+    "description": "You focus chakra into the tip of your finger and use the accumulated heat and energy to apply words, letters and shapes of your choice, no longer than 20 words per action taken. These words can be applied to structures and constructs (no damage) or to a willing creature, leaving a permanent scar."
+  },
+  "Firecracker Flash": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "Touch",
+    "duration": "Instant",
+    "components": [
+      "NT"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Ninjutsu",
+      "Bukijutsu"
+    ],
+    "description": "You take a bundle of flash firecrackers, light them with chakra, and throw them in an arc in front of you. Creatures in a 15‑foot‑wide area must make a Wisdom Saving Throw. On a failed save you gain advantage on your next attack against them and they have disadvantage on their next attack."
+  },
+  "Invisibility Cloak": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "Self",
+    "duration": "Instant",
+    "components": [
+      "NT"
+    ],
+    "cost": 1,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You quickly pull a chameleon cloak over yourself while against a wall or other standing surface. Roll a Stealth Check with a 1d4+1 bonus to the check."
+  },
+  "Light": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "Touch",
+    "duration": "1 Hour",
+    "components": [
+      "CM"
+    ],
+    "cost": 1,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You touch one object no larger than 10 feet in any dimension. The object sheds bright light in a 10‑foot radius and dim light for an additional 10 feet. The jutsu ends if you cast it again or dismiss it as an action. If targeting an object held or worn by a hostile creature, it must make a Dexterity Saving Throw to avoid the jutsu."
+  },
+  "Mending": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Minute",
+    "range": "Touch",
+    "duration": "Instant",
+    "components": [
+      "CM"
+    ],
+    "cost": 1,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "This jutsu repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. The break or tear must be no larger than 1 foot."
+  },
+  "Sealing Art: String Light Formation": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "30 feet",
+    "duration": "Concentration, up to 1 Minute",
+    "components": [
+      "HS",
+      "CM"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Ninjutsu",
+      "Fuinjutsu"
+    ],
+    "description": "You create a sealing formation stretching from yourself to a target creature within range in a straight line. The creature must make a Charisma Saving Throw, reducing both your and the target’s movement speed to 0 on a failed save. Additional users targeting the same creature increase the save DC by +1 each. The target can retry the save at the end of its turns."
+  },
+  "Medical Release: Virtue": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "1 Action",
+    "range": "Touch",
+    "duration": "1 Round",
+    "components": [
+      "HS",
+      "CM"
+    ],
+    "cost": 1,
+    "keywords": [
+      "Ninjutsu",
+      "Medical"
+    ],
+    "description": "You touch one willing creature, imbuing it with vitality. If the target has at least 1 hit point it gains Temporary Hit Points equal to 1d4 + your Ninjutsu Ability Modifier. The Temporary Hit Points are lost at the end of the creature's next turn."
+  }
 }
