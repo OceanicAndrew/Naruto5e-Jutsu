@@ -1,1 +1,518 @@
-{}
+{
+  "CHAKRA HANDS": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "Rank: E-Rank": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "1 Reaction, which you take when you miss",
+    "range": "Self",
+    "duration": "Instant",
+    "components": [
+      "HS",
+      "CM"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Genjutsu",
+      "Visual"
+    ],
+    "description": "You focus your genjutsu towards a single creature in range. Your genjutsu grants you a brief insight into one target’s defenses. You gain a +2 bonus on the triggering attack roll, potentially turning a miss into a hit. You can gain the benefit of this jutsu once per round. At Higher Levels: This Jutsu’s bonus increases by +1 when you reach 5th level (+3), 11th level (+4), 17th level (+5)"
+  },
+  "CHAKRA MOVEMENT": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "CHAKRA PULSE": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "CHAKRA BLOW": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "ENHANCED DEFENSE": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "ENHANCED RESISTANCE": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "Saving Throw": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "ENHANCED SKILL": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "Dexterity or Constitution)": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "Self",
+    "duration": "Instant",
+    "components": [
+      "HS"
+    ],
+    "cost": 2,
+    "keywords": [
+      "Ninjutsu"
+    ],
+    "description": "You focus chakra toward different parts of your body to enhance your ability to complete different tasks. You can add+3 to your Skill Check. Once you cast this jutsu, you cannot do so again for 10 minutes."
+  },
+  "ESCAPE TECHNIQUE": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "Sleight of Hand in place of the normally required Skill": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "FINGER CARVING SEAL": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "FIRECRACKER FLASH": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "INVISIBILITY CLOAK": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "LIGHT": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "If you target an object held or worn by a hostile": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "MENDING": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "SEALING ART: STRING LIGHT FORMATION": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "MEDICAL RELEASE: VIRTUE": {
+    "classification": "Ninjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "AFFECTION": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "Persuasion Checks directed at one creature you touch that": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "CLONE TECHNIQUE": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "DISTANT ECHO": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "It can be your voice or another sound you have heard": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "DOUBT": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "Intimidation Checks directed at one creature you touch": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "ENCODE THOUGHTS": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "The thought strand appears in an unoccupied space on a": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "If you cast this Genjutsu while concentrating on a": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "Genjutsu or ability that allows you to manipulate the": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "ENHANCED THOUGHTS": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "When you fail a Skill Check using a mental ability score": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "At Higher Levels: This Jutsu's skill reinforcement": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "FEATHER BURST": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "FLASH": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "MESSAGE": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "You can cast this genjutsu through solid objects if you are": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "MIND SLIVER": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "MINOR ILLUSION": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "If a creature uses its action to examine the sound or": {
+    "classification": "",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "PAIN": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "RELEASE": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "TRANSFORM": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "TRUE STRIKE": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  },
+  "VOICE CHANGE": {
+    "classification": "Genjutsu",
+    "rank": "E-Rank",
+    "casting_time": "",
+    "range": "",
+    "duration": "",
+    "components": [],
+    "cost": 0,
+    "keywords": [],
+    "description": ""
+  }
+}
