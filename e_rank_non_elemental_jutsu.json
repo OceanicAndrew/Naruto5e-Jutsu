@@ -12,7 +12,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you dismiss the jutsu. You can use your action to control the hand.\n\nYou can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. The hand can’t attack, activate chakra items, or carry more than 10 pounds."
+        "description": "A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you dismiss the jutsu.\n\nYou can use your action to control the hand.\n\nYou can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it. The hand can’t attack, activate chakra items, or carry more than 10 pounds.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 2"
     },
     "Chakra Movement": {
         "classification": "Ninjutsu",
@@ -27,7 +28,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "You transfer chakra to the bottom of your feet, creating a strong repulsive force upon release of this jutsu, increasing your movement speed momentarily. Increase your movement speed by 10 until the end of your next turn.\n\nAt Higher Levels: This Jutsu’s movement speed boost increases by 5ft at 5th level (15ft), 11th level (20ft), 17th level (25ft)."
+        "description": "You transfer chakra to the bottom of your feet, creating a strong repulsive force upon release of this jutsu, increasing your movement speed momentarily. Increase your movement speed by 10 until the end of your next turn.\n\nAt Higher Levels: This Jutsu’s movement speed boost increases by 5ft at 5th level (15ft), 11th level (20ft), 17th level (25ft).",
+        "source": "Jiraiya's Jutsu Compendium Pg. 2"
     },
     "Chakra Pulse": {
         "classification": "Ninjutsu",
@@ -42,7 +44,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "You create a forceful pulse of chakra that erupts from your body. Each creature within 5 feet of you, other than you, must make a Strength Saving Throw or take 2d4 Force Damage and are forced Prone.\n\nAt Higher Levels: This Jutsu’s effectiveness increases by 2d4 at 5th level (4d4), 11th level (6d4), 17th level (8d4)."
+        "description": "You create a forceful pulse of chakra that erupts from your body. Each creature within 5 feet of you, other than you, must make a Strength Saving Throw or take 2d4 Force Damage and are forced Prone.\n\nAt Higher Levels: This Jutsu’s effectiveness increases by 2d4 at 5th level (4d4), 11th level (6d4), 17th level (8d4).",
+        "source": "Jiraiya's Jutsu Compendium Pg. 2"
     },
     "Chakra Blow": {
         "classification": "Ninjutsu",
@@ -59,7 +62,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "You cover your weapon with chakra. Make a weapon attack against one creature within range. On a hit, the target suffers the attack’s normal effects and takes an additional 1d6 damage.\n\nAt Higher Ranks: This Jutsu’s effectiveness increases by 1d6 at 5th level (2d6), 11th level (3d6), 17th level (4d6)."
+        "description": "You cover your weapon with chakra. Make a weapon attack against one creature within range. On a hit, the target suffers the attack’s normal effects and takes an additional 1d6 damage.\n\nAt Higher Ranks: This Jutsu’s effectiveness increases by 1d6 at 5th level (2d6), 11th level (3d6), 17th level (4d6).",
+        "source": "Jiraiya's Jutsu Compendium Pg. 2"
     },
     "Enhanced Defense": {
         "classification": "Ninjutsu",
@@ -74,7 +78,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "You focus chakra into the top layer of your skin, providing you Resistance to Bludgeoning, Piercing, and Slashing Damage until the start of your next turn."
+        "description": "You focus chakra into the top layer of your skin, providing you Resistance to Bludgeoning, Piercing, and Slashing Damage until the start of your next turn.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 2"
     },
     "Enhanced Resistance": {
         "classification": "Ninjutsu",
@@ -89,7 +94,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "You focus chakra throughout your body reinforcing it to attacks. You gain a +2 bonus to your Saving Throw."
+        "description": "You focus chakra throughout your body reinforcing it to attacks. You gain a +2 bonus to your Saving Throw.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 2"
     },
     "Enhanced Skill": {
         "classification": "Ninjutsu",
@@ -104,7 +110,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "You focus chakra toward different parts of your body to enhance your ability to complete different tasks. You can add +3 to your Skill Check. Once you cast this jutsu, you cannot do so again for 10 minutes."
+        "description": "You focus chakra toward different parts of your body to enhance your ability to complete different tasks. You can add +3 to your Skill Check. Once you cast this jutsu, you cannot do so again for 10 minutes.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 3"
     },
     "Escape Technique": {
         "classification": "Ninjutsu",
@@ -119,7 +126,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "You use chakra to feel the knots of ropes, chains, and other tools used to bind and restrain you. While Restrained or Grappled, you can roll Sleight of Hand in place of the normally required Skill Check or Saving Throw at advantage. On a success, you free yourself."
+        "description": "You use chakra to feel the knots of ropes, chains, and other tools used to bind and restrain you. While Restrained or Grappled, you can roll Sleight of Hand in place of the normally required Skill Check or Saving Throw at advantage. On a success, you free yourself.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 3"
     },
     "Finger Carving Seal": {
         "classification": "Ninjutsu",
@@ -136,7 +144,8 @@
             "Ninjutsu",
             "Fuinjutsu"
         ],
-        "description": "You focus chakra into the tip of your finger and use the accumulated heat and energy to apply words, letters and shapes of your choice, no longer than 20 words per action taken. These words can be applied to structures and constructs (no damage) or to a willing creature, leaving a permanent scar."
+        "description": "You focus chakra into the tip of your finger and use the accumulated heat and energy to apply words, letters and shapes of your choice, no longer than 20 words per action taken. These words can be applied to structures and constructs (no damage) or to a willing creature, leaving a permanent scar.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 3"
     },
     "Firecracker Flash": {
         "classification": "Ninjutsu",
@@ -152,7 +161,8 @@
             "Ninjutsu",
             "Bukijutsu"
         ],
-        "description": "You take a bundle of flash firecrackers, light them with chakra, and throw them in an arc in front of you. Creatures in a 15‑foot‑wide area must make a Wisdom Saving Throw. On a failed save you gain advantage on your next attack against them and they have disadvantage on their next attack."
+        "description": "You take a bundle of flash firecrackers, light them with chakra, and throw them in an arc in front of you. Creatures in a 15‑foot‑wide area must make a Wisdom Saving Throw. On a failed save you gain advantage on your next attack against them and they have disadvantage on their next attack.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 3"
     },
     "Invisibility Cloak": {
         "classification": "Ninjutsu",
@@ -167,7 +177,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "You quickly pull a chameleon cloak over yourself while against a wall or other standing surface. Roll a Stealth Check with a 1d4+1 bonus to the check."
+        "description": "You quickly pull a chameleon cloak over yourself while against a wall or other standing surface. Roll a Stealth Check with a 1d4+1 bonus to the check.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 3"
     },
     "Light": {
         "classification": "Ninjutsu",
@@ -182,7 +193,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "You touch one object no larger than 10 feet in any dimension. The object sheds bright light in a 10‑foot radius and dim light for an additional 10 feet. The jutsu ends if you cast it again or dismiss it as an action. If targeting an object held or worn by a hostile creature, it must make a Dexterity Saving Throw to avoid the jutsu."
+        "description": "You touch one object no larger than 10 feet in any dimension. The object sheds bright light in a 10‑foot radius and dim light for an additional 10 feet. The jutsu ends if you cast it again or dismiss it as an action. If targeting an object held or worn by a hostile creature, it must make a Dexterity Saving Throw to avoid the jutsu.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 3"
     },
     "Mending": {
         "classification": "Ninjutsu",
@@ -197,7 +209,8 @@
         "keywords": [
             "Ninjutsu"
         ],
-        "description": "This jutsu repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. The break or tear must be no larger than 1 foot."
+        "description": "This jutsu repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. The break or tear must be no larger than 1 foot.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 3"
     },
     "Sealing Art: String Light Formation": {
         "classification": "Ninjutsu",
@@ -214,7 +227,8 @@
             "Ninjutsu",
             "Fuinjutsu"
         ],
-        "description": "You create a sealing formation stretching from yourself to a target creature within range in a straight line. The creature must make a Charisma Saving Throw, reducing both your and the target’s movement speed to 0 on a failed save. Additional users targeting the same creature increase the save DC by +1 each. The target can retry the save at the end of its turns."
+        "description": "You create a sealing formation stretching from yourself to a target creature within range in a straight line. The creature must make a Charisma Saving Throw, reducing both your and the target’s movement speed to 0 on a failed save. Additional users targeting the same creature increase the save DC by +1 each. The target can retry the save at the end of its turns.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 4"
     },
     "Medical Release: Virtue": {
         "classification": "Ninjutsu",
@@ -231,9 +245,10 @@
             "Ninjutsu",
             "Medical"
         ],
-        "description": "You touch one willing creature, imbuing it with vitality. If the target has at least 1 hit point it gains Temporary Hit Points equal to 1d4 + your Ninjutsu Ability Modifier. The Temporary Hit Points are lost at the end of the creature's next turn."
+        "description": "You touch one willing creature, imbuing it with vitality. If the target has at least 1 hit point it gains Temporary Hit Points equal to 1d4 + your Ninjutsu Ability Modifier. The Temporary Hit Points are lost at the end of the creature's next turn.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 4"
     },
-	"Affection": {
+    "Affection": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -246,11 +261,12 @@
         "keywords": [
             "Genjutsu",
             "Auditory",
-			"Unaware"
+            "Unaware"
         ],
-        "description": "For the duration, you have advantage on all Persuasion Checks directed at one creature you touch that isn’t hostile towards you. When the jutsu ends the creature may realize that you used a jutsu to influence its mood if it doesn’t fit your previous relationship. A creature Prone to violence might attack you if they realize this. Another creature may seek retribution in other ways (At the DM’s discretion), depending on the nature of your interactions."
+        "description": "For the duration, you have advantage on all Persuasion Checks directed at one creature you touch that isn’t hostile towards you. When the jutsu ends the creature may realize that you used a jutsu to influence its mood if it doesn’t fit your previous relationship. A creature Prone to violence might attack you if they realize this. Another creature may seek retribution in other ways (At the DM’s discretion), depending on the nature of your interactions.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 158"
     },
-	"Clone Technique": {
+    "Clone Technique": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -264,9 +280,10 @@
             "Genjutsu",
             "Visual"
         ],
-        "description": "The most basic clone technique that is taught in most academies across the ninja world. By using this technique, the user creates 2 duplicates of themselves. The clones stay near you and disappear when attacked. The clones appear by the user's side and cannot stray more than 5 feet away from the original. The duplicates look like the user and are perfect duplicates, but they cannot speak or perform any action that requires having a body, like lifting an object or attacking a creature. Once touched by another creature or object or violently shaken, it disappears in a puff of smoke. After Activation, as a Reaction you make a creature attacking you roll an additional 1d6, subtracting the result from their total attack roll. Doing this causes one of your clones to be struck regardless of the attack missing or hitting you. After the duration or both of your clones have been struck, this jutsu immediately ends. Any creature using a Jutsu with the Sensory Keyword or that can see through Genjutsu are not affected by this jutsu. At Higher Levels: This Jutsu’s proficiency increases as you increase in level. When you reach 5th level create 3 duplicates, 11th level (4 duplicates), 17th level (5 duplicates)."
+        "description": "The most basic clone technique that is taught in most academies across the ninja world. By using this technique, the user creates 2 duplicates of themselves. The clones stay near you and disappear when attacked. The clones appear by the user's side and cannot stray more than 5 feet away from the original. The duplicates look like the user and are perfect duplicates, but they cannot speak or perform any action that requires having a body, like lifting an object or attacking a creature. Once touched by another creature or object or violently shaken, it disappears in a puff of smoke. After Activation, as a Reaction you make a creature attacking you roll an additional 1d6, subtracting the result from their total attack roll. Doing this causes one of your clones to be struck regardless of the attack missing or hitting you. After the duration or both of your clones have been struck, this jutsu immediately ends. Any creature using a Jutsu with the Sensory Keyword or that can see through Genjutsu are not affected by this jutsu. \n\nAt Higher Levels: This Jutsu’s proficiency increases as you increase in level. When you reach 5th level create 3 duplicates, 11th level (4 duplicates), 17th level (5 duplicates).",
+        "source": "Jiraiya's Jutsu Compendium Pg. 158"
     },
-	"Distant Echo": {
+    "Distant Echo": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -280,11 +297,12 @@
         "keywords": [
             "Genjutsu",
             "Auditory",
-			"Unaware"
+            "Unaware"
         ],
-        "description": "You create a sound within range that lasts for the duration. The sound also ends if you dismiss it as an action or use this jutsu again. The sound you create can be any volume, ranging from a whisper to a scream. It can be your voice or another sound you have heard before such as another person's voice, a lion's roar or a shattering vase. The sound continues unabated throughout the duration or you can make discrete sounds at different times before the jutsu ends. At Higher Levels: This Jutsu’s proficiency increases as you increase in level. At 5th level select 1 additional location for the sound to originate. 11th level, 2 additional locations, 17th level, 3 additional locations."
+        "description": "You create a sound within range that lasts for the duration. The sound also ends if you dismiss it as an action or use this jutsu again. The sound you create can be any volume, ranging from a whisper to a scream. It can be your voice or another sound you have heard before such as another person's voice, a lion's roar or a shattering vase. The sound continues unabated throughout the duration or you can make discrete sounds at different times before the jutsu ends. \n\nAt Higher Levels: This Jutsu’s proficiency increases as you increase in level. At 5th level select 1 additional location for the sound to originate. 11th level, 2 additional locations, 17th level, 3 additional locations.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 158"
     },
-	"Doubt": {
+    "Doubt": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -297,11 +315,12 @@
         "keywords": [
             "Genjutsu",
             "Auditory",
-			"Unaware"
+            "Unaware"
         ],
-        "description": "For the duration, you have advantage on all Intimidation Checks directed at one creature you touch that you are interacting with. When the jutsu ends the creature may realize that you used a jutsu to influence its mood if it doesn’t fit your previous relationship. A creature Prone to violence might attack you if they realize this. Another creature may seek retribution in other ways (At the DM’s discretion), depending on the nature of your interactions."
+        "description": "For the duration, you have advantage on all Intimidation Checks directed at one creature you touch that you are interacting with. When the jutsu ends the creature may realize that you used a jutsu to influence its mood if it doesn’t fit your previous relationship. A creature Prone to violence might attack you if they realize this. Another creature may seek retribution in other ways (At the DM’s discretion), depending on the nature of your interactions.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 158"
     },
-	"Encode Thoughts": {
+    "Encode Thoughts": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -316,9 +335,10 @@
             "Genjutsu",
             "Visual"
         ],
-        "description": "You draw out a memory, an idea, or a message from your mind, and seal it into a tangible string of glowing seals called a thought strand, which persists for the duration or until you cast the jutsu again. The thought strand appears in an unoccupied space on a surface of your choice, such as a wall, blank scroll, book, or skin in the form of text or images of your memories design. If you cast this Genjutsu while concentrating on a Genjutsu or ability that allows you to manipulate the thoughts of others (such as Memory Domination), you can transform the thought or memories you read, rather than your own into a thought strand."
+        "description": "You draw out a memory, an idea, or a message from your mind, and seal it into a tangible string of glowing seals called a thought strand, which persists for the duration or until you cast the jutsu again. The thought strand appears in an unoccupied space on a surface of your choice, such as a wall, blank scroll, book, or skin in the form of text or images of your memories design. If you cast this Genjutsu while concentrating on a Genjutsu or ability that allows you to manipulate the thoughts of others (such as Memory Domination), you can transform the thought or memories you read, rather than your own into a thought strand.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 159"
     },
-	"Enhanced Thoughts": {
+    "Enhanced Thoughts": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Reaction, which you take when you fail a Skill Check.",
@@ -331,7 +351,8 @@
         "keywords": [
             "Genjutsu"
         ],
-        "description": "You focus chakra toward different parts of your mind to enhance your ability to process information. When you fail a Skill Check using a mental ability score (Intelligence or Wisdom), you can add+2 to that failed check, potentially turning a failure, into a success. Once you cast this jutsu, you cannot do so again for 10 minutes. At Higher Levels: This Jutsu's skill reinforcement increases as you increase in level. This bonus increases by +2 at 5th Level (+4), 11th level (+6), 17th level (+8)"
+        "description": "You focus chakra toward different parts of your mind to enhance your ability to process information. When you fail a Skill Check using a mental ability score (Intelligence or Wisdom), you can add+2 to that failed check, potentially turning a failure, into a success. Once you cast this jutsu, you cannot do so again for 10 minutes. \n\nAt Higher Levels: This Jutsu's skill reinforcement increases as you increase in level. This bonus increases by +2 at 5th Level (+4), 11th level (+6), 17th level (+8)",
+        "source": "Jiraiya's Jutsu Compendium Pg. 159"
     },
     "Feather Burst": {
         "classification": "Genjutsu",
@@ -348,9 +369,10 @@
             "Genjutsu",
             "Visual"
         ],
-        "description": "A simple illusion of sight. When hit by an attack, the opponent sees you burst into black raven feathers reforming at your current location. When hit by a melee attack, roll 1d8 reducing damage taken by the result and move 10 feet away. This movement does not provoke attacks of opportunity. At Higher Levels: This Jutsu’s proficiency increases as you increase in level rolling 1d8 when you reach 5th level(2d8), 11th level (3d8), 17th level (4d8)"
+        "description": "A simple illusion of sight. When hit by an attack, the opponent sees you burst into black raven feathers reforming at your current location. When hit by a melee attack, roll 1d8 reducing damage taken by the result and move 10 feet away. This movement does not provoke attacks of opportunity. \n\nAt Higher Levels: This Jutsu’s proficiency increases as you increase in level rolling 1d8 when you reach 5th level(2d8), 11th level (3d8), 17th level (4d8)",
+        "source": "Jiraiya's Jutsu Compendium Pg. 159"
     },
-	"Flash": {
+    "Flash": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -358,16 +380,17 @@
         "duration": "Instant",
         "components": [
             "HS",
-			"NT (Firecrackers)"
+            "NT (Firecrackers)"
         ],
         "cost": 2,
         "keywords": [
             "Genjutsu",
-			"Visual"
+            "Visual"
         ],
-        "description": "A mix of firecrackers and Chakra to make the flash they produce 10 times more intense. Select a Space up to 30 feet away. Creatures within 5 feet of the space you select must make a Wisdom Saving Throw. On a failed save, the next attack targeting them has advantage."
+        "description": "A mix of firecrackers and Chakra to make the flash they produce 10 times more intense. Select a Space up to 30 feet away. Creatures within 5 feet of the space you select must make a Wisdom Saving Throw. On a failed save, the next attack targeting them has advantage.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 159"
     },
-	"Message": {
+    "Message": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -379,11 +402,12 @@
         "cost": 2,
         "keywords": [
             "Genjutsu",
-			"Auditory"
+            "Auditory"
         ],
-        "description": "You point your finger towards a creature within range that you can see and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear. You can cast this genjutsu through solid objects if you are familiar with the target and know it is beyond the barrier. This jutsu doesn’t have to follow a straight line and can travel freely around corners or through openings."
+        "description": "You point your finger towards a creature within range that you can see and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear. You can cast this genjutsu through solid objects if you are familiar with the target and know it is beyond the barrier. This jutsu doesn’t have to follow a straight line and can travel freely around corners or through openings.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 159"
     },
-	"Mind Sliver": {
+    "Mind Sliver": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -391,17 +415,18 @@
         "duration": "1 Round",
         "components": [
             "HS",
-			"CM"
+            "CM"
         ],
         "cost": 1,
         "keywords": [
             "Genjutsu",
-			"Visual",
-			"Tactile"
+            "Visual",
+            "Tactile"
         ],
-        "description": "Description: You inject a disorienting spike of chakra into the mind of one creature you can see within range. Make a Ranged Genjutsu Attack, dealing 1d6 psychic damage. The target must also succeed an Intelligence Saving Throw. On a failed save, until the end of its next turn, it must roll a d4 and subtract the number from the first Saving Throw they make for the duration. At Higher Levels: This Jutsu’s proficiency increases as you increase in level rolling an additional 1d6 when you reach 5th level (2d6), 11th level (3d6), 17th level (4d6)"
+        "description": "Description: You inject a disorienting spike of chakra into the mind of one creature you can see within range. Make a Ranged Genjutsu Attack, dealing 1d6 psychic damage. The target must also succeed an Intelligence Saving Throw. On a failed save, until the end of its next turn, it must roll a d4 and subtract the number from the first Saving Throw they make for the duration. \n\nAt Higher Levels: This Jutsu’s proficiency increases as you increase in level rolling an additional 1d6 when you reach 5th level (2d6), 11th level (3d6), 17th level (4d6)",
+        "source": "Jiraiya's Jutsu Compendium Pg. 159"
     },
-	"Minor Illusion": {
+    "Minor Illusion": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -413,12 +438,13 @@
         "cost": 2,
         "keywords": [
             "Genjutsu",
-			"Visual",
-			"Tactile"
+            "Visual",
+            "Tactile"
         ],
-        "description": "You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this genjutsu again. If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends. If you create an image of an object— such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it. If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation), or Wisdom (Illusion) check against your Genjutsu Save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature."
+        "description": "You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this genjutsu again. If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else’s voice, a lion’s roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends. If you create an image of an object— such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can’t create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it. If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation), or Wisdom (Illusion) check against your Genjutsu Save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 160"
     },
-	"Pain": {
+    "Pain": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Bonus Action",
@@ -430,11 +456,12 @@
         "cost": 2,
         "keywords": [
             "Genjutsu",
-			"Tactile"
+            "Tactile"
         ],
-        "description": "You point at a creature within range and the sound of a dolorous bell fills the air around it for the moment. The next time the target would take damage, they take an additional 1d4 psychic damage. This jutsu then ends. At Higher Levels: This Jutsu’s effectiveness increases by one die when you reach 5th level (2d4), 11th level (3d4), 17th level (4d4)."
+        "description": "You point at a creature within range and the sound of a dolorous bell fills the air around it for the moment. The next time the target would take damage, they take an additional 1d4 psychic damage. This jutsu then ends. \n\nAt Higher Levels: This Jutsu’s effectiveness increases by one die when you reach 5th level (2d4), 11th level (3d4), 17th level (4d4).",
+        "source": "Jiraiya's Jutsu Compendium Pg. 160"
     },
-	"Release": {
+    "Release": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -442,16 +469,17 @@
         "duration": "Instant",
         "components": [
             "HS",
-			"CM"
+            "CM"
         ],
         "cost": 2,
         "keywords": [
             "Genjutsu",
-			"Fuinjutsu"
+            "Fuinjutsu"
         ],
-        "description": "This technique allows the user to isolate and forcefully remove the effect of a single Genjutsu effect, so long as it can be dispelled. You must first be aware that you or your target is under the effect of a Genjutsu. As part of the activation of this jutsu, make an Illusion Check at advantage vs the Save DC of the Genjutsu. On a success you free yourself or your target from the Genjutsu."
+        "description": "This technique allows the user to isolate and forcefully remove the effect of a single Genjutsu effect, so long as it can be dispelled. You must first be aware that you or your target is under the effect of a Genjutsu. As part of the activation of this jutsu, make an Illusion Check at advantage vs the Save DC of the Genjutsu. On a success you free yourself or your target from the Genjutsu.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 160"
     },
-	"Transform": {
+    "Transform": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Action",
@@ -463,11 +491,12 @@
         "cost": 1,
         "keywords": [
             "Genjutsu",
-			"Visual"
+            "Visual"
         ],
-        "description": "This technique is taught to every student of the academy. Using this technique, the user assumes the form of a creature, object or animal of the same size category as they are or smaller. They may freely designate the specifics of their new form (such as height, weight, hair texture and color, skin tone, etc.). This transformation is purely cosmetic and an illusion. When you use a Charisma based skill action in an attempt to deceive, lie or misguide another creature, you use this new form, so long as it is relevant to your act, to enhance that lie with convincing movements and gestures. If you are not benefiting from the Voice Change Genjutsu active, you gain only half of the following bonus. While transformed, when you use a Charisma based skill action in an attempt to deceive, lie or misguide another creature, you use this new form, so long as it is relevant to your act, you can add+4 to the checks made. You can gain this bonus, once per round, or once every minute if in combat or a social scene."
+        "description": "This technique is taught to every student of the academy. Using this technique, the user assumes the form of a creature, object or animal of the same size category as they are or smaller. They may freely designate the specifics of their new form (such as height, weight, hair texture and color, skin tone, etc.). This transformation is purely cosmetic and an illusion. When you use a Charisma based skill action in an attempt to deceive, lie or misguide another creature, you use this new form, so long as it is relevant to your act, to enhance that lie with convincing movements and gestures. If you are not benefiting from the Voice Change Genjutsu active, you gain only half of the following bonus. While transformed, when you use a Charisma based skill action in an attempt to deceive, lie or misguide another creature, you use this new form, so long as it is relevant to your act, you can add+4 to the checks made. You can gain this bonus, once per round, or once every minute if in combat or a social scene.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 160"
     },
-	"True Strike": {
+    "True Strike": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Reaction, which you take when you miss a creature you target with an attack roll.",
@@ -475,16 +504,17 @@
         "duration": "Instant",
         "components": [
             "HS",
-			"CM"
+            "CM"
         ],
         "cost": 2,
         "keywords": [
             "Genjutsu",
-			"Visual"
+            "Visual"
         ],
-        "description": "You focus your genjutsu towards a single creature in range. Your genjutsu grants you a brief insight into one target’s defenses. You gain a +2 bonus on the triggering attack roll, potentially turning a miss into a hit. You can gain the benefit of this jutsu once per round. At Higher Levels: This Jutsu’s bonus increases by +1 when you reach 5th level (+3), 11th level (+4), 17th level (+5)"
+        "description": "You focus your genjutsu towards a single creature in range. Your genjutsu grants you a brief insight into one target’s defenses. You gain a +2 bonus on the triggering attack roll, potentially turning a miss into a hit. You can gain the benefit of this jutsu once per round. \n\nAt Higher Levels: This Jutsu’s bonus increases by +1 when you reach 5th level (+3), 11th level (+4), 17th level (+5)",
+        "source": "Jiraiya's Jutsu Compendium Pg. 160"
     },
-	"Voice Change": {
+    "Voice Change": {
         "classification": "Genjutsu",
         "rank": "E-Rank",
         "casting_time": "1 Bonus Action",
@@ -492,12 +522,12 @@
         "duration": "Concentration, up to 1 Minute",
         "components": [
             "HS",
-			"CM"
+            "CM"
         ],
         "cost": 1,
         "keywords": [
             "Genjutsu",
-			"Auditory"
+            "Auditory"
         ],
         "description": "You coat your tongue in chakra, manipulating the vibrations it provides while speaking. You imitate the voice of any creature you’ve heard before with amazing accuracy. Creatures would need to actively take the See through lies, skill action to tell your voice is fabricated."
     }
