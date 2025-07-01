@@ -8,7 +8,7 @@
         "components": [
             "CM"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -24,7 +24,7 @@
         "components": [
             "HS"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -40,7 +40,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -58,7 +58,7 @@
             "CM",
             "W(any)"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -74,7 +74,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -90,7 +90,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -106,7 +106,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -122,7 +122,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -139,7 +139,7 @@
             "CM",
             "CS"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Ninjutsu",
             "Fuinjutsu"
@@ -156,7 +156,7 @@
         "components": [
             "NT"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Ninjutsu",
             "Bukijutsu"
@@ -173,7 +173,7 @@
         "components": [
             "NT"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -189,7 +189,7 @@
         "components": [
             "CM"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -205,7 +205,7 @@
         "components": [
             "CM"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Ninjutsu"
         ],
@@ -222,7 +222,7 @@
             "HS",
             "CM"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Ninjutsu",
             "Fuinjutsu"
@@ -240,7 +240,7 @@
             "HS",
             "CM"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Ninjutsu",
             "Medical"
@@ -257,7 +257,7 @@
         "components": [
             "CM"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Auditory",
@@ -275,7 +275,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Visual"
@@ -293,7 +293,7 @@
             "HS",
             "CM"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Genjutsu",
             "Auditory",
@@ -311,7 +311,7 @@
         "components": [
             "CS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Auditory",
@@ -330,7 +330,7 @@
             "HS",
             "CM"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Visual"
@@ -347,7 +347,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu"
         ],
@@ -364,7 +364,7 @@
             "HS",
             "CM"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Visual"
@@ -382,7 +382,7 @@
             "HS",
             "NT (Firecrackers)"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Visual"
@@ -399,7 +399,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Auditory"
@@ -417,7 +417,7 @@
             "HS",
             "CM"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Genjutsu",
             "Visual",
@@ -435,7 +435,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Visual",
@@ -453,7 +453,7 @@
         "components": [
             "HS"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Tactile"
@@ -471,7 +471,7 @@
             "HS",
             "CM"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Fuinjutsu"
@@ -488,7 +488,7 @@
         "components": [
             "HS"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Genjutsu",
             "Visual"
@@ -506,7 +506,7 @@
             "HS",
             "CM"
         ],
-        "cost": 2,
+        "cost": "2 Chakra",
         "keywords": [
             "Genjutsu",
             "Visual"
@@ -524,7 +524,7 @@
             "HS",
             "CM"
         ],
-        "cost": 1,
+        "cost": "1 Chakra",
         "keywords": [
             "Genjutsu",
             "Auditory"
