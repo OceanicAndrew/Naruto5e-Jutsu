@@ -17,5 +17,487 @@
         ],
         "description": "You infuse chakra into a chakra seal as you attempt to mark yourself with the seal of wolves. Your voice, figure, and temperament becomes bestial in nature. You grow fur of any color of your choice covering your arms, and your hands become large claws with ironlike nails. You cannot lose concentration of this jutsu as a result of damage.\n\nFor this jutsu’s duration, you gain the following benefits;\n• Your Strength Score becomes 22 or your Dexterity becomes 18 (your choice).\n• Your unarmed damage die becomes 2d8 Slashing Damage and can use whichever ability score was modified by this jutsu as the ability modifier for your unarmed attack calculations.\n• You gain a +20 bonus to movement speed.\n• Attacks of Opportunity you make are at advantage.\n• When you take the attack action, you can make two attacks instead of one, if you cannot already. If you already can, then you instead make one additional unarmed attack.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3. If this jutsu is cast at A-Rank or higher, you cannot be seen by Chakra Sight nor can you be sensed by effects that can sense Chakra. If this jutsu is cast at S-Rank, its duration becomes 1 minute, without the need for Concentration.",
         "source": "Jiraiya's Jutsu Compendium"
-    }
+    },
+    "Kagura’s Mind Eye": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Sensory"
+        ],
+        "description": "You force open your minds 3rd Eye greatly increasing your perceptive abilities almost 10-fold. This jutsu does not cost chakra to maintain concentration.\n\nWhen this jutsu is cast, for the duration, you gain access to a unique special action called Third Eye Opening. This special action can be gained and used in addition to other special actions you gain and use. This special action counts as a Skill-Action and both a Constitution and Wisdom based skill.\n\nThird Eye Opening. As a Bonus action, you open your metaphorical third eye gaining 120ft of Chakra sight and Chakra Sensing. While gaining the benefit of these senses as a result of this jutsu, you gain the following benefits;\n\nYou can identify if a creature, object or structure has been affected by a jutsu within the last 24 hours, gain advantage on checks made to see if a creature is lying, and can see the echoes of chakra usage within the past 24 hours, while also being able to identify creatures and jutsu based on these echo’s if you have sensed them before. These echoes can be used to help track creatures exclusively by their chakra alone.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3. If this jutsu is cast at A-Rank, increase the range of Third Eye Opening’s special senses to 1-Mile and the duration of this jutsu becomes Concentration, up to 10 minutes. If this jutsu is cast at S-Rank, it no longer requires concentration.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Life Transference": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Ninjutsu"
+        ],
+        "description": "You sacrifice some of your health to mend other creatures’ injuries. You take 4d8 necrotic damage which can’t be reduced in any way, and one creature you can reach regains a number of hit points equal to twice the necrotic damage you take.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and the necrotic damage you take by 2d8.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Non-Detection": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Concentration, Up to 10 Minutes.",
+        "components": [
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Sensory"
+        ],
+        "description": "For the duration, you suppress a creatures chakra which lowers their presence and hides them from all manner of sensory jutsu. The target can be a willing creature or an object. The target can’t be sensed or seen by the Chakra Sight or Chakra Sensing special sense as a result of jutsu cast at an equal rank or lower. If a creature would gain either of these senses as a result of a feature or trait, this jutsu only works on creatures who is of a level equal or lower than the casters.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3. If this jutsu is cast at A-Rank, this jutsu can now affect structures and small locations no larger than 30 feet by 30 feet. If this jutsu is cast at S-Rank, it can affect locations no larger than 100 feet by 100 feet.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Sealing Art: Banishing Seal": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 feet",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You infuse chakra into a chakra seal as you attempt to send them away with the seal of banishment. Choose one creature you can see within range as you force them to make a Charisma saving throw or be sent to a pocket dimension of your creation. On a failed save they are banished to this pocket dimension. While banished, they are incapacitated and are unaware of any actions or happenings in the dimension they were just banished from. When this jutsu ends, they are summoned back into the same space they were originally banished from and gain 2 ranks of Sealed.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and the number of creatures you can target by +1.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Sealing Art: Circle of Authority": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (30-foot radius sphere)",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You infuse chakra into a chakra seal as you attempt to mark yourself with the seal of domination. You then exude a 30-foot radius sphere of authority that other creatures must abide by. This radius follows you.\n\nFor this jutsu’s duration, anytime a hostile creature in this jutsu’s radius would make a saving throw against a jutsu you or an allied creature cast, they immediately take a -2 Penalty to their roll.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and the radius by 5 feet.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Sealing Art: Commune": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "1 Minute",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You infuse chakra into a chakra seal as you attempt to mark yourself with the seal of relation.\n\nYou reach out into the void. Calling upon the spirit of a single deceased spirit, with whom you have a connection with, be it ancestral, legacy, ideals, historical, or antagonistic. The DM allow other forms of relation as well. You summon the spirit to the material plane and ask it three questions that can be answered with a yes or no. You must ask your questions before the jutsu ends. You the most correct answer possible from to the spirits knowledge.\n\nThe spirit is not omniscient, so you may receive unclear or uncertain answers, if a question lies beyond the spirits knowledge. In a case where a one-word answer could be misleading or contrary to the spirits interests, the DM may offer a short phrase as an answer instead.\n\nA spirit cannot be summoned this way more than once per month.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Sealing Art: Curse of the Prey": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You attempt to impose the qualities of a single weak bestial creature. Select one creature within your reach. The target must make a Charisma saving throw. On a failed save, they gain one of the following bestial qualities.\n\nSwallows Endurance: The creatures bones begin to feel hollow and brittle as their heart begins to beat furiously as their blood begins to thin. For the duration, they have a -3 penalty on all constitution saving throws, skill checks and ability checks. Additionally, they cannot take the Dash Action and cannot gain additional speed by any means.\n\nMites Strength: The creatures muscles begin to grow weak and unable to carry weight. They gain a -3 Penalty to their Strength saving throws and melee attacks made.\n\nSloth’s Grace: The creatures reflexes are shot as they become unable to move gracefully or even carry themselves correctly. They gain a -3 penalty to their Dexterity saving throws and ability checks and ranged attacks made. They also take double damage from falling, and they spend their full movement trying to stand from Prone.\n\nRhinoceros Splendor: The creatures vision, auditory perception and sense of smell becomes dull and weak as they gain a -3 Penalty to their Wisdom ability checks and saving throws. Their visual range is cut in half and they cannot hear things more than 30 feet away from them.\n\nTurkey’s Cunning: The creatures ability to think through complex matters and concepts becomes muddled. They find it hard to remember simple handsigns, colors and even their left from their right. They gain a -3 Penalty to their intelligence saving throws and ability checks. They cannot concentrate on more than 1 Jutsu, and the Base Concentration check DC becomes 17.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Sealing Art: Dimensional Pocket": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Month",
+        "range": "Self",
+        "duration": "Permanent",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You infuse chakra into a chakra seal as you attempt to tear open a rift in the fabric of reality, marking out a small space in the void for yourself with the seal of distortion.\n\nAs a part of the casting of this jutsu, you must mark a representative space no larger than a 20-foot cube with chakra seals, doing this dictates the exact size of your pocket dimension.\n\nIf this jutsu casting time is interrupted, the jutsu ends and you must restart the process from scratch.\n\nAfter successfully casting this jutsu, you create a room in the void, unable to accessed without jutsu that can traverse through dimensions or teleport ignoring space all together.\n\nThis room is one of your design and can look however you describe it. While inside this dimension, you are no longer on the material plane. You are unaware of what’s going on, on the material plane. You cannot communicate with or locate people on the material plane. If you exit your room, stepping into the void, you are instantly shunted to a random location on the material plane. This can be anywhere from another country, to the bottom of the ocean, or even 10,000 feet in the sky.\n\nThis room produces no sound and cannot be found by normal means. You can freely access your room, by spending 10 minutes weaving hand seals and materializing a gate which takes you directly to this room. The room has 4 walls, and can only ever be 1 floor. It has a single door, which cannot be locked by normal means, which leads to a short bridge feeding into a chakra gate which takes you back to the material plane from the exact location you entered to your room from originally.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Sealing Art: Displacement Sealing Trap": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Minute",
+        "range": "10 feet",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You draw a circle up to a 10-foot diameter circle on the ground inscribed with shinobi sigils that link your location to another location of which you’ve been too or know its exact coordinates. Only you or a trigger you set can trigger this sealing circle. Once activated all creatures in the circle are immediately teleported to the exact location within 10 feet of its exact coordinates.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Sealing Art: Divination Technique": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You infuse chakra into a chakra seal as you attempt to peer through the fabric of time, diving future events with the seal of perception.\n\nYou must ask a single question concerning a specific goal, event or activity to occur within 7 days. The DM offers as truthful a reply as possible. The reply might be a short phrase, a cryptic rhyme or an omen. You hear the aforementioned in your own voice as if you are speaking to a future version of yourself.\n\nThis jutsu doesn’t take into account any possible circumstances that might change the outcome, such as the casting of certain jutsu, or the loss or gain of a companion.\n\nYou cannot peer into the future this way more than once per week.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Sealing Art: Gift of the Apex": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Concentration, Up to 1 minute.",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You begin to gain qualities of a single bestial creature. Granting you chakra projections that enhance your physical traits. Select one of the following beasts to gain traits from.\n\n• Bears Endurance: You gain advantage on constitution saving throws and the Kuma Fortitude reaction.\n  o Kuma Fortitude. As a reaction to making a saving throw to resist a Physical, Elemental or Sensory condition, your bestial projection protects you from the worst of it. Select one condition type, and you reduce the number of ranks you would gain of that condition type, by 1\n\n• Bull’s Strength: You gain advantage on Strength saving throws and the Bulls Rush attack as you grow chakra construct horns.\n  o Bulls Rush. In place of an attack made as part of the attack action, you attempt to gore an enemy. Make an unarmed attack against a creature within 5 feet of you dealing 2d12 + Strength Piercing Damage. They also have to make a Strength saving throw vs the damage result, being knocked prone on a failure.\n\n• Cat’s Grace: You gain advantage on Dexterity Saving Throws and feline claws made of chakra letting you perform the Cats Pounce attack.\n  o Cats Pounce. When you would take the attack action, you can use this attack before or after one of your normal unarmed attacks are made, once per turn. Make an unarmed attack that deals 2d8 + your Dexterity modifier in slashing damage. On a hit the target must also make a Dexterity saving throw vs the damage result, gaining a rank of Bleed on a failure\n\n• Eagle’s Splendor: You gain advantage on Wisdom Saving Throws and the Eagle Eye ability.\n  o Eagle Eye. As a bonus action, you can perform the Search skill action, viewing things in full clarity up to 500 feet away as long as there are no obstructions as if you were only 1 foot away from it\n\n• Fox’s Cunning: You gain advantage on Intelligence Saving Throws and can concentrate on one additional jutsu.\n\n• Lions Presence: You gain advantage on Charisma Saving Throws and the Tora Growl ability.\n  o Tora Growl. As part of attempting to perform the Coerce, Demoralize, or Make an Impression skill actions you cannot make them at disadvantage and affected creatures making contested checks make their checks with a -2 penalty",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Summoning: Rashomon": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Reaction, which you take when you or an allied creature would take damage or make a saving throw.",
+        "range": "30 Feet",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CS"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You bite your finger drawing blood before using it as a catalyst to summon Rashomon, 60 feet tall, 30 Feet wide, and 5 feet thick gate made of iron, brick, chakra and other materials. This wall is erected standing straight upward. If you are in an area that cannot fit Rashomon, this jutsu will fail.\n\nWhen summoned, Rashomon intercepts all damage you or an allied creature in range would take. Rashomon has 100 Hit points and is resistant to all damage.\n\nIf Rashomon’s Hit points are reduced to 0 it disappears and cannot be summoned again until you complete a long rest. The design of Rashomon is up to the user as well as the color and imagery on the wall itself.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and Rashomon’s Hit points by +25.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Tobirama’s Private Sanctum": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Minute",
+        "range": "120 feet",
+        "duration": "24 Hours",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You make an area within range secure. This area is a cube that can be as small as 5 feet to as large as 100 feet on each side. This jutsu lasts for the duration, or until you use an action to dismiss it.\n\nWhen you cast this jutsu, you decide what sort of security it provides, choosing no more than 2 of the following;\n\n• Sound can’t pass through the barrier at the edge of the warded area.\n\n• The barrier of the warded area appears dark and foggy, preventing vision (including Darkvision) through it.\n\n• Sensors created by Jutsu with the Sensory Keyword can’t appear inside the protected area or pass through the barrier at its perimeter.\n\n• Nothing can teleport into or out of the warded area.\n\n• Dimensional travel is blocked within the warded area.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Warding Seal": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "When you cast this jutsu, you inscribe a harmful seal either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the seal (such as a book, a scroll, or a treasure chest). If you choose a surface, the seal can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this jutsu, the seal is broken and this jutsu ends without being triggered.\n\nThe seal is nearly invisible, requiring an Investigation or Ninshou check vs your ninjutsu save DC to find it.\n\nYou decide what triggers the seal when you cast the jutsu. For seals inscribed on a surface, the most typical triggers include touching or stepping on the seal, removing another object covering it, approaching within a certain distance of it, or manipulating the object that holds it.\n\nYou can further refine the trigger so the jutsu is activated only under certain circumstances or according to a creature’s physical characteristics (such as height or weight). You can also specify creatures that don’t trigger the seal, such as those who say a certain password.\n\nWhen you inscribe the seal, you can store a Ninjutsu or Genjutsu of B-Rank or lower in the seal by casting it as part of creating the seal. The jutsu must target a single creature or an area. The jutsu being stored has no immediate effect when cast in this way. When the seal is triggered, the stored jutsu is cast. If the jutsu has a target, it targets the creature that triggered the seal. If the jutsu affects an area, the area is centered on that creature. If the jutsu summons hostile creatures or creates harmful objects or traps, they appear as close as possible to the intrude and attack it. If the jutsu requires concentration, it lasts until the end of its full duration.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and the rank of a Sealed Jutsu by 1. (B>A>S)",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Body Pathway Derangement": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Up to 1 minute",
+        "components": [
+            "HS",
+            "CM",
+            "M"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical"
+        ],
+        "description": "You coat your fingertips in chakra and attempt to strike an opponent at the nape of their neck sending a surge of chakra through their central nervous system mixing up signals from their brain to the rest of their bodies. Make a Melee Ninjutsu Attack. On a hit, the target creature must make a constitution saving throw.\n\nOn a failed save, the target creature's speed is halved, it takes a -2 Penalty to AC, automatically fails Dexterity saving throws and cannot use reactions. On its turn, it can either use an action or bonus action, not both. Regardless of the creature's abilities or jutsu descriptions, it can’t make more than one attack during its turn. If the creature wants to use an action to make an ability save to end this effect, they must instead roll an Intelligence save.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Blood Rot Curse": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Instant",
+        "components": [
+            "CM",
+            "CS"
+        ],
+        "cost": "19 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical",
+            "Fuinjutsu"
+        ],
+        "description": "You weave necrotic chakra into a special wavelength, invisible to even creatures with Chakra sight. When you cast this jutsu roll all spent hit die. Recording the result.\n\nYou touch a creature who’s hit points are not full and bestow a curse. The cursed target must make a Charisma saving throw. You can attempt to bestow the curse in a concealed manner not revealing your intentions by making a Stealth check vs the targets passive insight. On a success, the target is unaware of the curse you placed on them.\n\nThe curse takes effect immediately, for the next 24 hours (1 Day), the target cannot regain hit points except as a result of long or full rests, if and when they would take Acid, Poison or Necrotic damage, they take 2d4 additional damage of that same type. This jutsu can be dispelled by a Jutsu of B-Rank or higher that can dispel jutsu.\n\nAt Higher Ranks: For each rank you cast this jutsu above C-Rank, increase the cost of this jutsu by 3. If this jutsu is cast at A-Rank or higher, for the duration, whenever the affected creature would gain ranks of Bleeding it is converted into Corroded, which ignores stack limits so long as this jutsu’s effects are active. If this jutsu is cast at S-Rank, their blood begins to turn to Acid. At the beginning of an affected creatures turn, they take 4d6 Acid damage for each rank of Corroded they have.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Dead Heartbeat Technique": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Day",
+        "range": "Touch",
+        "duration": "Special",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical",
+            "Fuinjutsu"
+        ],
+        "description": "When casting this jutsu, you must have fully intact corpse of a humanoid creature. You perform a type of surgery designed to induce a false heartbeat. At the conclusion of this jutsu’s casting, the corpse begins to move at your behest. You must stay within 90 feet of the corpse while facilitating its temporary revival.\n\nAll wounds, and damage the corpse had prior to this jutsu’s casting remains. The corpse you use this on only retains their memories. They can regain their personalities if you instead extend this jutsu’s casting time to 1 Week.\n\nThe corpse cannot disobey you, and must not act in any way that would bring you harm. The corpse has 1 Hit points and calculates its AC as normal. It cannot cast jutsu, or use features by any means. The corpse remains active until you dismiss this jutsu as a bonus action or begin concentrating on any other jutsu or feature. A corpse can only be temporarily be brought back this way once ever using this jutsu.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Death Ward": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 action",
+        "range": "Touch",
+        "duration": "1 Hour.",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical",
+            "Fuinjutsu"
+        ],
+        "description": "You draw your chakra seal onto a talesman or scroll and place it onto a creature other than yourself, granting it a measure of protection from death. The first time the target would drop to 0 hit points as a result of taking damage, the target instead stops at 1 hit point, and the jutsu ends. If this jutsu is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, excluding Exhaustion, that effect is instead negated against the target, and the jutsu ends.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Grim Calling": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (30 feet)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra, 2 Hit Die",
+        "keywords": [
+            "Ninjutsu",
+            "Medical",
+            "Fuinjutsu"
+        ],
+        "description": "You weave summoning seals together and infuse them with medical release chakra manifesting the head of the Reaper of death.\n\nIt screeches a spectral wail that penetrates to the souls of most creatures, calling and pulling on their spiritual selves. All creatures within range must make a Charisma saving throw. On a failed save, creatures take 6d8 necrotic damage, fall prone, and ends concentration on any Jutsu they are concentrating on. If a creature has ranks of Mental or Sensory conditions, they make their save at disadvantage.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 chakra and the damage by 1d8.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Investiture of Acid": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 10 minutes",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical"
+        ],
+        "description": "You draw out acidic chakra and infuse it into yourself, coating your entire body like armor. The acid does not harm you. You cannot lose concentration on this jutsu as a result of damage. For the duration, you gain the following benefits;\n\n• You are immune to Acid Damage.\n• You have resistance to Bludgeoning, Piercing and Slashing damage.\n• You have vulnerability to Earth damage.\n• You can move across difficult terrain on solid ground without spending any extra movement, as you melt the obstructions in your path.\n• The ground in a 10-foot radius around you is covered in acid, counts as difficult terrain for creatures other than you, and moves with you.\n• You can use your action to blast a 15-foot cone of acid from you in a direction you choose. Each creature in the cone must make a Constitution saving throw. A creature takes 4d8 Acid damage and gains 1 rank of the corroded condition on a failed save or half as much and no further effects on a successful one.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Reconstructive Hand": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical"
+        ],
+        "description": "You coat your hand in cell manipulating Medical chakra. You can attempt to manipulate the cellular integrity of a creature’s cells.\n\nAs an action on your turn, you can touch a willing creature you can reach. When you do, you can jumpstart their cellular regenerative process. The creature regains hit points equal to 5d8 + 12.\n\nAlternatively, as an action you can attempt to touch a hostile creature you can reach. Make a melee ninjutsu attack. On a successful hit, they take 5d10 Necrotic Damage and become compromised. A compromised creature must make a constitution saving throw at the beginning of each of their turns for the next minute. Any jutsu or affect that would remove a physical condition can remove the compromised condition on a creature.\n\nA compromised creature who succeeds three saving throws first, ends this condition. A compromised creature has their cells begin to fail and rupture. They suffer a -2 penalty to their AC, attack rolls, and Strength, Dexterity and Intelligence saving throws for the duration.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3. If this jutsu is Cast at A-Rank or higher, the affected creature increases the cost of Jutsu they cast by +2 for the duration as well. If this jutsu is cast at S-Rank, the penalty to AC, attack rolls and saving throws are increased to -4.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Revival": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical"
+        ],
+        "description": "You send a surge of healing chakra through a creature that has been dead for no more than 1 minute that didn’t die of old age, isn’t undead, and not missing its head. You make a Medicine skill Check vs DC (25 + 1 for every round the target has been dead.) The target returns to life with 1 Hit Point. Missing body parts are not returned. Internal organs are healed and regenerated. This jutsu cures all normal diseases affecting the creature when it dies. This jutsu does not remove ranks of exhaustion a creature has accumulated prior to death.\n\nOnce a creature has been revived in this way, they cannot be revived again in the same way for 30 days, as their body simply cannot handle the strain.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Strength of 100": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Bonus Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "CM"
+        ],
+        "cost": "10 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical"
+        ],
+        "description": "You use finely controlled chakra across your body, granting you strength of over 100 people. You gain the following benefits;\n\n• Your strength becomes 20 for the Duration.\n• Your jump height and distance are doubled.\n• You gain Advantage on Strength & Constitution based ability checks, skill checks, and saves.\n• Your [Unarmed Damage Die] becomes 2d8.\n\nAfter you end this jutsu, you suffer the consequences of pushing your body to its limit. You gain disadvantage on Strength based ability and skill checks for the next hour or until you take a short rest.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Venom Sphere": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60Feet (30-foot Cylinder)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "10 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical"
+        ],
+        "description": "You begin to generate poisonous medical chakra and release it, creating a ball of poisonous, acidic liquid, that then rain of needles formed from it.\n\nSelect a point in the air that you can see within range. You manifest a ball of acidic point, that begins to rain down needles made of poisonous acid filling a 30-foot cylinder. Each creature in the cylinder must make a Dexterity saving throw taking 3d6 poison and 3d6 acid damage on a failed save and half as much on a successful save. A creature that failed their save takes 3d4 poison and 3d4 acid damage at the start of their next turn.\n\nThe ground this area affects generates poisonous thorns on the ground that lasts for 1 minute. Creatures who that enter the area of poisonous thorns takes 1d6 poison and 1d6 acid damage for each 5 feet they move through the affected area.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and both damage types by 1d6.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Medical Release: Water to Acid": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Concentration, Up to 10 minutes",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Medical"
+        ],
+        "description": "You draw out acidic chakra and infuse it into a body of water that you can see. You convert a 15-foot cubes worth of water, into pure acid for the duration. Jutsu with the Water release keyword that would require a source of water, cannot use this pool of acid. If you would convert a pool of water into acid and there is water outside of this jutsu’s area of effect, then creatures can still use water release ninjutsu that requires sources of water.\n\nAny creature that is in contact with the water when it turns to acid such as stand on top of it with the water walking technique immediately sinks down into it.\n\nCreatures who would begin their turn submerged in the acid takes 7d4 acid damage and must make a constitution saving throw, being blinded and gaining the corroded condition on a failed save.\n\nWhen this jutsu would end, the acid turns back into normal water.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and the size of the acid conversion doubles. (15>30>60)",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
+    "Earth Release: Bottomless Swamp": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "120 Feet, (60 Foot Cube)",
+        "duration": "Concentration, up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Earth Release",
+            "Ninjutsu"
+        ],
+        "description": "You select a point you can see within range\nas a swamp-like pool begins to form, filling a 60 ft Cube.\nThis mud pool is difficult terrain, cannot be traversed\nusing water walking techniques, and prevents creatures\nfrom dashing or jumping. Creatures caught in the radius\nwhen this jutsu is cast, enters the radius for the first\ntime on their turns, or begins their turns there must\nmake a Strength saving throw and additional Strength\nsaving throws at the beginning of each of their turns for\nthe duration.\nEach consecutive failure imposes additional penalties\nand effects on the target creature(s). On a success a\ncreature remove one of the failure conditions in the\nreverse order they received them. Each failed save deals\n4d8 Earth damage to the affected creature.\n\nst failure. Their movement speed is reduced by 20-\nfeet and they cannot gain bonuses movement speed for\nthe duration.\n\nnd failure. Half of the creature's body is submerged\nand are restrained by the thick untraversable mud.\n\nrd failure. They are dragged below the surface and\ncounted as suffocating. They can survive a number of\ntheir turns equal to their constitution modifier, after\nwhich they begin Dying. If this jutsu ends while a\ncreature is submerged, they are forced to the surface as\nthe Swamp hardens back into stone.\n\nAt Higher Ranks: For each rank you cast this jutsu\nabove B-Rank, increase the cost of this jutsu by 3. If this\njutsu is cast at A-Rank or higher, you can choose to\nchange this jutsu’s duration to Instant, removing\nconcentration. If you do, instead of forcing Strength\nsaving throws each turn, creatures in the affected area\nmust make a Strength, Dexterity and Constitution saving\nthrow.\n\nStrength Failure. They are buffeted by swirling semi-\nsolid mud, gaining 2 ranks of Bruised.\n\nDexterity Failure. Pillars of stone jut from the mud\nattempting to skewer all affected creatures, inflicting the\nDazed condition.\nConstitution Failure. The Mud is infused with\npoisonous chakra and affected creatures gain 2 ranks of\nEnvenomed.",
+        "source": "Jiraiya's Jutsu Compendium"
+    },
 }
