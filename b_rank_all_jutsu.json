@@ -3803,5 +3803,1687 @@
         ],
         "description": "You throw your weapon and attempt to impale a creature pinning them to the wall. Make a ranged Taijutsu attack dealing your weapon's damage + 6d8 on a hit and knocking them back 30 feet. If a creature collides with a solid object, their movement is stopped, taking falling damage equal to the distance they would have fallen. When a creature collides with a solid object, they must make a Strength saving throw or be restrained. A creature repeats the Strength saving throw at the start of each of their turns, ending the condition on a success.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and the damage by 1d8.",
         "source": "Jiraiya's Jutsu Compendium Pg. 279"
+    },
+
+        "Insect Amp": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Bonus Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute.",
+        "components": [
+            "HS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "You fill your insects with an intense surge of Chakra enhancing their overall potential and abilities. For the duration, when you would cast an Aburame Hijutsu that deals damage, its increase is increased by +1 damage die and now adds your ninjutsu ability modifier if it did not already. Additionally, if an Aburame Hijutsu you cast would increase the base cost of a creatures jutsu, that base cost penalty is increased by an amount equal to the rank of\n\nthe Hijutsu cast. (D-Rank: +4, C-Rank: +6, B-Rank: +8, A-Rank: +10, S-Rank: +12)",
+        "source": "Jiraiya's Jutsu Compendium Pg. 8"
+    },
+
+    "Parasitic Insect Cloud": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 feet (15-foot cube)",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "Your insects create a noxious gas that is exuded from your body. When you cast this jutsu, you select an area you can see within range and the gas is moved to this area. Creatures in the path of the gas on the way to the chosen location, and creatures who start their turn in the gas, must make a Constitution saving throw, becoming Envenomed and taking 5d8 poison damage on failure, or taking half damage and suffering no effects on a success. At the beginning of a creatures turn where they start inside the gas, they repeat the saving throw. As a bonus action on each turn thereafter, for this jutsu’s duration you may move this cloud 30 feet.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d8",
+        "source": "Jiraiya's Jutsu Compendium Pg. 8"
+    },
+
+    "Butterfly Mode": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "6 Calories",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "You release Chakra from your back as it forms into the shape of butterfly wings and becomes visible to the naked eye of your design. For the duration of this jutsu, you cannot use the Full-Body-Expansion jutsu and you gain immunity to poison damage. You increase the damage you deal making melee weapon or unarmed attacks or casting Akimichi Hijutsu using strength, by an amount equal to Xd6 (X= your Proficiency bonus). If you would cast a Taijutsu that isn’t an Akimichi clan Hijutsu, you instead increase the damage by half the bonus damage die, you would if it were an Akimichi Hijutsu. This bonus damage can be applied no more than twice per round. You also gain advantage on strength and constitution and saving throws, and Strength based ability and skill checks When this jutsu ends, you lose all remaining Calories and cannot gain calories until you complete a long rest.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 12"
+    },
+
+    "Caloric Recharge": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Instant",
+        "components": [
+            "CM"
+        ],
+        "cost": "Special",
+        "keywords": [
+            "Hijutsu",
+            "Taijutsu"
+        ],
+        "description": "By spending any number of calories, you are able to regain hit points by forcibly converting them into healing energies. For every Calorie spent this way, you regain 1d8 hit points, up to a maximum of 10 calories spent. Once you cast this jutsu, it cannot be cast again for 10 minutes.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3. If this jutsu is cast at S-Rank, you instead regain 1d12 hit points\n\nper Calorie.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 12"
+    },
+
+    "Explosion Release: Absolute Death Bombing": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "200 feet",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM",
+            "M"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Lightning Release",
+            "Earth Release"
+        ],
+        "description": "You create a small, volatile ball of chakra, hurling it into the air, where it flies towards a space you can see within range towards the ground and explodes in a 40-foot radius. All creatures in the area must make a constitution saving throw, taking 6d8 force damage, or half as much on a successful save. Creatures who fail the save by 5 or more take an additional 3d8 damage and gain the deafened and weakened condition for 1 minute.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d8.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 18"
+    },
+
+    "Explosion Release: Clay Chase Down": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "5 feet",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Lightning Release",
+            "Earth Release",
+            "Fuinjutsu",
+            "Artistic Style",
+            "Construct"
+        ],
+        "description": "You create two constructs made of clay that will autonomously hunt down creatures of your choice.\n\nThe constructs have hit points equal to twice your ninjutsu save DC and an AC equal to your Ninjutsu save DC. If the constructs hit points reach 0, it explodes. Select a target for each construct to hunt down. At the end of each of your turns, the construct moves 30 feet towards its target, if the target is flying it will move to a space where it is as close as physically possible to the creature. If the construct ends its movement within 5 feet of its target, it explodes. When a construct explodes, all creatures within 10 feet of it must make a Strength saving throw. A creature can only be affected by an explosion caused by a construct made by this jutsu once per turn. On a failed save, they take 8d6 force damage and gain 1 rank of Bruised or half as much on a successful save.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d6.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 18"
+    },
+
+    "Explosion Release: Landmine Fist": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "5 Feet",
+        "duration": "Instant",
+        "components": [
+            "CM",
+            "M"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Taijutsu",
+            "Lightning Release",
+            "Earth Release",
+            "Reckless Style"
+        ],
+        "description": "As a part of the activation of this jutsu, you must have Explosion Release: Fury! active. You gather a frightening amount of chakra into your fist, before slamming it into an opponent. Make a melee taijutsu attack. On a hit, you deal your [Unarmed Damage] + 8d6 Force damage. Each creature in a 10-foot cone behind the initial target must make a Dexterity saving throw, On a failed save, creatures take the same damage the original creature took. On a success, they take half damage.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3, damage by 2d6 and the size of the cone by 5 feet.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 18"
+    },
+
+    "Blood Clot Spikes": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Reaction, which you take when a creature would cast a Jutsu with the M component.",
+        "range": "60 feet",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "10 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Water Release",
+            "Ninjutsu"
+        ],
+        "description": "As a reaction to a creature using a jutsu with the M component, you manipulate their blood to coagulate and spike, restricting their blood flow. Make a Ninshou or Illusions skill check contested by their Martial Arts. You gain a +1 to your skill check for each rank of Bleeding the target may possess (Max +5). On a success, the creature’s movement is interrupted being reduced to 0 until the end of their next turn, causing their jutsu to fail and chakra to be wasted. The creature also takes 4d8 necrotic damage. If your Ketsuryūgan is active when you cast this jutsu and you succeed your skill contest by 5 or more, the target is restrained for the duration of this jutsu, able to make a Strength saving throw at the start of each of their turns to break free. If a target is restrained for an entire minute, they fall unconscious due to their inhibited blood flow.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 25"
+    },
+
+    "Genjutsu: Numbness!": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 feet",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Genjutsu",
+            "Unaware"
+        ],
+        "description": "As part of the requirements for casting this jutsu, you must have the Ketsuryūgan clan feature active. Make a ranged genjutsu attack against one creature in range. On a hit, you make a creature feel invincible, distracting them from the fact that their body has been compromised. Each time the creature takes damage while this jutsu is active, if they possess damage reduction, their damage reduction value is treated as half, otherwise, they take an extra 1d6 + your Genjutsu ability modifier in necrotic damage, which cannot be reduced. A creature cannot be under this jutsu's effects multiple times. This jutsu's effects can trigger a number of times equal to your proficiency bonus, after which this jutsu ends.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 25"
+    },
+
+    "Falling Heaven: Focus": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Bonus Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "M",
+            "CM"
+        ],
+        "cost": "11 Chakra",
+        "keywords": [
+            "Hijutsu"
+        ],
+        "description": "You pour chakra into your retina’s increasing your focus and overall accuracy with ranged weapons. For the duration, when you make a ranged attack, you may roll an additional 2d4 adding the result to your roll. On a roll of two 4’s you treat the roll as a critical hit. You can gain the benefit of this jutsu, twice per round.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 31"
+    },
+
+    "Falling Heaven: Calamity": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (40-feet)",
+        "duration": "Instant",
+        "components": [
+            "M",
+            "W (Any Thrown)"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Bukijutsu"
+        ],
+        "description": "You begin to spin launching weapons in every direction piercing and slashing enemies as they fall within range. Creatures of your choice, within 40 feet of you must succeed a Dexterity saving throw, taking your weapons damage+ 5d8 Slashing damage on a failed save.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d8.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 31"
+    },
+
+    "Typhoon Release: Whirlwind Bomb": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "90 Feet",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Wind Release"
+        ],
+        "description": "You condense a rampaging ball of wind before throwing it, causing it to explode. Make a ranged ninjutsu attack against the target. On a hit, the target takes 7d8 wind damage. Hit or miss, the target and each creature within 15 feet of it must succeed on a Constitution saving throw or take 4d4 wind damage and becoming dazed until the end of their next turn.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 1d8 and 1d4 respectively.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 35"
+    },
+
+    "Typhoon Release: High Wind Destruction": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (90-foot radius)",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Wind Release",
+            "Sensory"
+        ],
+        "description": "You create a powerful swirling area of wind that prevents creatures from acting against your will. You can choose a number of creatures equal to your Ninjutsu ability modifier to be unaffected by the adverse effects of this jutsu as the wind flows around them. When a creature other than you creature enters the jutsu's area for the first time on a turn or starts its turn there, they are pushed back by the wind and must make a Strength saving throw being knocked back 45ft. on a failed save or half as much on a successful one. Flying creatures are knocked back twice the distance.\n\nCreatures inside the radius of this jutsu are heavily obscured from creatures who aren't and vice versa. You always know the location of creatures inside the radius of this jutsu, ignoring any visual penalties. All creatures other than you in the area are treated as if they are in difficult terrain, even for flying creatures. If a creature knocked back by this jutsu collides with a solid object, their movement is stopped, taking double the damage they would have taken as if they had fallen an equal distance.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and increase the knock back by 10 feet.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 35"
+    },
+
+    "Boil Release: Acidic Dragons Breath": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (30-Foot line)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fire Release",
+            "Water Release",
+            "Clash"
+        ],
+        "description": "You fire a beam of acid in a straight line spreading a massive wave of corroding acid. Creatures in a 30-foot long, 5-feet wide line in front of you must succeed a Dexterity saving throw, taking 8d8 Acid damage, and gaining 2 ranks of Corroded on a failed save, or half as much on a successful one. Also, creatures, excluding you, within 5 feet of the beam must make a constitution saving throw taking 6d6 Acid damage and 1 rank of corroded on a failed save.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d8 and 2d6.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 40"
+    },
+
+    "Boil Release: Scorpions Stinger": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "5 Feet",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Taijutsu",
+            "Fire Release",
+            "Water Release",
+            "Clash"
+        ],
+        "description": "You coat your body in a highly compressed cloak of steam, that you then shape into a stinger the same shape as a Scorpions stinger. Make a melee Taijutsu attack. On a hit, you deal your unarmed + 5d12 acid damage and the target gains +1 rank of Corroded.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 1d12.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 40"
+    },
+
+    "Data Release: Antivirus": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "15 feet",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "Special (12 Chakra)",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fuinjutsu",
+            "Lightning Release"
+        ],
+        "description": "You release a pulse of Data Release from yourself which can causes an angel or demonic construct to materialize and fight alongside you. When you cast this jutsu, choose between a Data Angel or Data Demon. Your choice affects the appearance and abilities of your construct. Angels appear as winged centurion knights, meant to aid the weak. Demons appear as monsters, meant to punish the wicked.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 4, and the number of constructs created by +1. You can choose whether these additional constructs are Angels or Demons.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 45"
+    },
+
+    "Data Release: Data Visualization": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Full Turn Action",
+        "range": "Touch",
+        "duration": "Special",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "10 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Sensory",
+            "Lightning Release"
+        ],
+        "description": "You touch a willing or incapacitated creature and begin combing through their memories searching for a specific event. The creature does not need to remember said event at the present moment to use this jutsu, they simply need to have seen or heard it. Make a Ninshou or Sleight of Hand check with your choice of Dexterity or Intelligence vs. a DC equal to how far back the memory was recorded. (Within the past day: 12, Within the past week: 16, Within the past month: 20, Within the past six months: 24, Within the past year: 28, Within the past five years: 32, six or more years: 36+) On a success, you locate the memory and retract your hand from the creature, holding a sphere of Data Release containing a copy of the memory. The length of the memory starts at 10 minutes, though you can, as many times as you'd like, increase the cost of this jutsu by 1 to add one more minute. You can then choose to broadcast the memory in a small cloud of lightning across a 15-foot space that you could reach, or place it into a monitor. Alternatively, you can crush the orb, releasing the memory into the minds of all willing creatures within 15 feet. Each creature is immersed completely in the memory, standing the same place it was recorded, perfectly recreated, and able to explore/move in their own way as if they were time travelers. When viewing a memory, you can freely pause, rewind, or fast forward through the memory, and can move up to 60 feet in the memory's space, potentially revealing new information. Once you succeed this check and end this jutsu, you cannot use this jutsu on the creature again for 1 day, and cannot cast this jutsu again for the next 8 hours as the technique is taxing on your chakra network.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 46"
+    },
+
+    "Hanami Style: Offensive Cloak": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "Special (12 Chakra)",
+        "keywords": [
+            "Ninjutsu",
+            "Medical",
+            "Hijutsu"
+        ],
+        "description": "You cover your entire body in a bolstering cloak of medical jutsu. When you make an unarmed attack, you deal an additional 2d8 Necrotic damage, up to three times per turn. Also, once per turn, an affected creature must succeed a Constitution saving throw or be unable to regenerate hit points until the end of their next turn.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 50"
+    },
+
+    "Hanami Style: Cherry Blossom Finale": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (60-foot radius)",
+        "duration": "Instant",
+        "components": [
+            "M"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Taijutsu",
+            "Hijutsu",
+            "Finisher"
+        ],
+        "description": "This jutsu can only be cast as a Finisher. You slam your fist into the ground creating a giant shockwave. Each creature in range must make a Dexterity saving throw, taking your [Unarmed Damage] + 8d8 on a failure, or half as much on a success. If a creature is prone, they have disadvantage on the saving throw. After the conclusion of this jutsu, the area is counted as difficult terrain.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank increase the cost of the jutsu by 3 and increase the damage by 2d8.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 50"
+    },
+
+    "Serpent Adaptation": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "M",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Taijutsu",
+            "Bukijutsu"
+        ],
+        "description": "You pour Chakra throughout your body, growing fangs, poison sacks, hardening your skin and allowing you to elongate your arms and legs like whips. For the duration, your melee attack, and Bukijutsu range increased by 5 feet as you stretch your arms to compensate. Your movement speed increases by 10 feet. If you have Mamba’s Hardened Scales on your known jutsu list, casting it does not consume Chakra.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 56"
+    },
+
+    "Mamba Poisonous Blade": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM",
+            "W (Katana",
+            "Broadswords or Odachi)"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Bukijutsu"
+        ],
+        "description": "You envelop your weapon in a poison only found in the infamous Black Mamba. Twice per turn, your weapon deals an additional +2d6 poison damage. Creatures who take poison damage from this weapon must make a constitution saving throw, gaining +2 ranks of Envenomed on a failed save. A creature Envenomed by this jutsu has difficulty taking reactions. When they are first Envenomed by this jutsu, they cannot take a reaction until the beginning of their next turn. At the beginning of each of their turns, they must remake their constitution saving throw, losing the ability to take a reaction until the beginning of their following turn on a failed save. On a success, they can take reactions as normal.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 56"
+    },
+
+    "Vipers Poisonous Wave": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (30 feet)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM",
+            "W (Katana",
+            "Broadswords or Odachi)"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Bukijutsu"
+        ],
+        "description": "You create a wave of poisonous Chakra that erupts from your weapon as you swing it. All creatures in a 10-foot wide, 30 feet long line must succeed a Dexterity saving throw, taking 6d8 Poison damage and half as much on a failed save. If the weapon you use is under the effects of Mamba’s Poisonous Blade, or the Poison Potency Hebi Clan Feature, creatures make their save with a -2 penalty. If the weapon you use is under the effects of both Mamba’s Poisonous Blade and the Poison Potency Hebi Clan Feature, you instead deal 6d12 Poison damage or half as much on a failed save.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d8 or 2d10.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 57"
+    },
+
+    "Kujaku Art: Cosmic Pressure": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (20-foot radius)",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "CM"
+        ],
+        "cost": "13 Chakra or 6 Star Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "As a prerequisite to this jutsu you must have the Kujaku Mode active. The feathers of your Kujaku Mode bolden as your mere presence is fueled by cosmic energy. An aura of distorting starlight surrounds you, and with this cosmic presence you exude a calming or frightening pressure. Until the jutsu ends, any creature that targets you with an attack or hostile jutsu must first make a Wisdom saving throw. On a failed save, the creature must choose a new target or lose the attack or jutsu. A creature that fails a save this way also gains one rank of Charmed or Fear (pick one) which last for the duration. Once a creature succeeds this Wisdom saving throw, it becomes immune to this effect until recast this jutsu. Also, for the duration, a heavy aura of Star Chakra surrounds you in a 20-foot radius. Creatures that enter this radius for the first time or start their turn in it must make a Strength saving throw, gaining 1 rank of Slowed on a failed save. A target that fails this save is also unable to mold chakra while it remains in the aura. If a creature fails this save by 5 or more, they are restrained until the start of its next turn.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 (or 1 star chakra), increase the aura's radius by 5 feet.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 62"
+    },
+
+    "Kujaku Dragon": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 feet",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "Special (14 Chakra or 7 Star Chakra)",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You cannot lose concentration on this jutsu as a result of taking damage. You form a massive swell of star chakra that shapes itself into a dragon-like creature composed of pure star chakra in an unoccupied space within range. This dragon is a huge-sized construct. You may dismiss the construct at any time, ending this jutsu. As part of the action casting this jutsu, you may command the dragon to move up to 60 feet and make up to two attacks at targets within 15 feet of it. On subsequent turns you can command the dragon to move and take the attack action as a bonus action. Otherwise the construct defends itself.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 (or 1 star chakra), the construct's hit points by 2d8 (or +10) and it deals an extra 1d8 damage with its attacks.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 63"
+    },
+
+    "Hydrofication": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute.",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Water Release"
+        ],
+        "description": "You turn yourself into a mixture of Water and oil, liquifying entirely turning into a sentient pool of fluid that you can control. For the duration of this jutsu, you can transform any part of your body into this liquid mixture, allowing you to fit through any crack large enough for Water to fit through. You gain resistance to bludgeoning, piercing, slashing and immunity to Fire damage. You gain vulnerability to Lightning damage. Additionally, your strength and Constitution scores increase by +4, while using this jutsu.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 72"
+    },
+
+    "Water Balloon": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 feet (15-foot Cube)",
+        "duration": "Concentration, Up to 1 minute.",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "10 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Water Release"
+        ],
+        "description": "You create a puddle of Water mixed with oil, producing bubbles that float around you. These bubbles are then launched at a 15-foot cube of area within range with enough speed to cause concussive damage. Creatures of your choice, who first enter the chosen area or who begin their turn within it must succeed a Dexterity saving throw taking 4d10 bludgeoning damage and being Dazed or half as much on a successful save. As an action on your turn, you can choose to move the target area up to 30 feet in any direction within range. If you are currently using the Hydrofication Jutsu, increase the damage die by 1 step. (d10 > d12).\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d10.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 73"
+    },
+
+    "8-Trigrams Spiraling Heaven Palm": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "CM",
+            "M"
+        ],
+        "cost": "10 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Taijutsu"
+        ],
+        "description": "As part of the requirements of this jutsu you must be benefitting from the Gentle Fist Stance and have the Byakugan active. You take a single breath sharpening your Gentle Fist stance making each strike more precise and lethal than the last, making each strike accurately bludgeon the internal organs of your foes. This jutsu costs no Chakra to concentrate on. For the duration you gain the following benefits:\n\n• Chakra damage you deal as a result of Unarmed and Melee Taijutsu Attacks ignore Damage reduction.\n\n• When you make an unarmed attack that deals chakra damage, you deal an equal amount of damage to the target as Force damage.\n\n• Each successful unarmed attack you make in the same turn, that deals Chakra damage increases the cost of the next Jutsu the affected creature casts by +2. This stacks up to 3 times per round.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 78"
+    },
+
+    "8-Trigrams 64 Palms Defense": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action or 1 Reaction to being damaged or being targeted by a jutsu with the Clash keyword",
+        "range": "Self (5 feet)",
+        "duration": "Instant",
+        "components": [
+            "CM",
+            "M"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Main Branch",
+            "Taijutsu",
+            "Clash"
+        ],
+        "description": "Created by a main branch Hyūga years ago. This is a variation on the “8-Trigrams 64 Palms”. As part of the requirements of this jutsu you must have Byakugan active and be benefitting from the Gentle Fist Stance. This jutsu can be cast as an Action or Reaction for different effects. Regardless, when you cast this jutsu, all creatures of your choice in a 5-foot radius centered on you must succeed a Dexterity saving throw or take 3d8 force damage and be pushed back 5 feet. Action: If this jutsu is cast as an Action, gain a +2 bonus to your AC until the start of your next turn, increase the damage dealt by this jutsu to 5d8, and on a failed save creatures are also knocked prone. Reaction: If this jutsu is cast as a Reaction, increase your AC by +5 until the start of your next turn and gain a +1d8 bonus to your next clash check before the start of your next turn.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d8.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 78"
+    },
+
+    "Mountain Crusher": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (30-foot cone)",
+        "duration": "Instant",
+        "components": [
+            "CM",
+            "M"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Side Branch",
+            "Taijutsu",
+            "Clash"
+        ],
+        "description": "As part of the requirements of this jutsu you must have Byakugan active and be benefitting from the Gentle Fist Stance. An advanced and amplified version of the “Vacuum Wall Palm”. All Creatures in range must make a constitution saving throw, taking 15d4 force damage on a failed save, being knocked back 15 feet, and falling prone on a failed save. On a successful save, they instead take half damage with no additional effects.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d4.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 79"
+    },
+
+    "Burning Sweep": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (25-long, 65-foot wide, 30-foot high cube)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fire Release"
+        ],
+        "description": "You aggressively slash the air in front of you, creating two large pillars far in front of you that generate a large gust of wind and ash. You then use smoke to levitate into the air, creating two more pillars in front of you at your sides, creating a 25-foot long, 65-foot wide, 30-foot high cube. Creatures caught in the awesome forces of smoke and wind within this jutsu's range must make a Dexterity saving throw, as the pillars return to your arms and you expel the energy towards them all. Creatures that cannot be moved make this saving throw at advantage. Creatures who fail their saving throw against this jutsu take 9d6+9 Fire damage and gain 1 rank of Burned. Creatures who fail their saving throw by 5 or more have the wind knocked out of them, reducing their movement speed to 0 until the end of their next turn. If you are currently receiving the benefits of the Smoke Form hijutsu, creatures of Medium size or smaller make this jutsu's saving throw at disadvantage, and the damage increases by 1 step.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3, and the damage by 1 step (1d6<1d8<1d10<1d12).",
+        "source": "Jiraiya's Jutsu Compendium Pg. 83"
+    },
+
+    "Smoke Form": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fire Release"
+        ],
+        "description": "You turn yourself and your clothes into smoke for the duration of this jutsu. You still appear mostly the same, however, smoke continues to perspire off your body and fall to the ground beneath you, like a reservoir. When you move, your body quickly shifts into smoke. For the duration of this jutsu, you do not provoke attacks of opportunity when you move, and are able to pass through small gaps and cracks, large enough for air to get through. You are also immune to fall damage. Your weapon attacks deal an additional die of fire damage, once per turn, and you gain immunity to fire damage, whilst also gaining vulnerability to Wind damage. Your AC increases by +1, and the Iburi Clan hijutsu you cast other than this one have their cost reduced by 2 (Min. 1).",
+        "source": "Jiraiya's Jutsu Compendium Pg. 83"
+    },
+
+    "Double Headed Wolf": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "As part of the requirements of this jutsu you must be in direct contact with your Nin-Dog. You perform the Inuzuka Clans Secret Transformation Technique, fusing you and your dog, and transforming you both into a huge creature with 2 heads and combining your senses and strengths. For the duration, you gain the following benefits; You do not need to spend Chakra to maintain this jutsu, and while you have the temporary hit points granted by this jutsu you cannot lose concentration on this jutsu as a result of damage.\n\n• Increase your Strength and Dexterity Ability scores by +4.\n\n• You are now a Huge creature.\n\n• You can no longer perform Hand Seals, but can perform any Inuzuka Clan Jutsu ignoring its need for HS if any.\n\n• Your speed is increased by 30 feet.\n\n• You gain resistance to Bludgeoning, Piercing, and Slashing damage.\n\n• You gain a pool of Temporary hit points equal to 10 times you or your Nin-Dogs constitution modifier (whichever is higher).\n\n• You can no longer command your Nin-Dog, but you gain all of its Senses,\n\nTraits, Features, and Skill Proficiencies for the duration of this Jutsu.\n\n• Inuzuka Clan Jutsu you cast while in this form cost is reduced by half and adds your Strength and Dexterity Modifier to damage rolls if they don’t already, ignoring any limitation such as with Iron Fangs.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 89"
+    },
+
+    "Fang Wolf Fang": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "90 feet",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM",
+            "M"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Taijutsu"
+        ],
+        "description": "As part of the requirements of this jutsu, you must have the Double Headed Wolf Inuzuka clan jutsu active. You perform a much more devastating variation of the tunneling fang as a double headed wolf, tearing into your target and ripping them apart. Make a melee Taijutsu attack, dealing 5d6 slashing & 5d6 piercing damage.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d6 for each damage type.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 89"
+    },
+
+    "Magnet Release: Magnetic Dust Fist": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "120 feet",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Earth Release",
+            "Wind Release",
+            "Construct"
+        ],
+        "description": "You create a large hand of dust particles of your description (Gold, Iron, Sand, Salt, Gravel) in an unoccupied space you can see within range. The hand lasts for the jutsu's duration, and it moves at your command, mimicking the movements of your own hand. The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the jutsu ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn't fill its space. When you cast this jutsu, and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the following effects with it. Clenched Fist: The hand strikes one creature or object within 5 feet of it. Make a melee ninjutsu attack for the hand using your game statistics. On a hit the target takes 4d8 earth damage. Forceful Hand: The hand attempts to push a creature within 5 feet of it in a direction you choose. Make a check with the hand's Strength contested by the Strength (Athletics) check of the target. If the target is Medium or smaller, you have advantage on the check. If you succeed, the hand pushes the target up to 5 feet plus a number of feet equal to 5 times your ninjutsu ability modifier. The hand moves with the target to remain within 5 feet of it. Grasping Hand: The hand attempts to grapple a Huge or smaller creature within 5 feet of it. You use the hand's Strength score to resolve the grapple. If the target is Medium or smaller, you have advantage on the check. While the hand is grappling the target, you can use a bonus action to have the hand crush it. When you do so, the target takes bludgeoning damage equal to 2d6 + your ninjutsu ability modifier. Interposing Hand: The hand interposes itself between you and a creature you choose until you give the hand a different command. The hand moves to stay between you and the target, providing you with half cover against the target. The target can't move through the hand's space if its Strength score is less than or equal to the hand's Strength score. If its Strength score is higher than the hand's Strength score, the\n\ntarget can move toward you through the hand's space, but that space is difficult terrain for the target.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3, and the damage from the clenched fist option by 2d8, and the grasping hand by 2d6.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 94"
+    },
+
+    "Magnet Release: Imperial Dust Funeral": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "300 feet",
+        "duration": "Concentration, Up to 5 rounds",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Earth Release",
+            "Wind Release."
+        ],
+        "description": "Using your magnetism, you summon a wall of dust particles of your description (Gold, Iron, Sand, Salt, Gravel) into existence at a point you choose within range. You can make the wall up to 250 feet long. 250 feet high, and 50 feet thick. The wall lasts for the duration. When the wall appears, each creature within its area must make a strength saving throw. On a failed save, a creature takes 5d8 earth damage, or half as much damage on a successful save. At the start of each of your turns after the wall appears, the wall, along with any creatures in it, moves 50 feet away from you. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a Strength saving throw or take 4d8 earth damage. A creature can take this damage only once per round. At the end of the turn, the wall's height is reduced by 50 feet, and the damage creatures take from the jutsu on subsequent rounds is reduced by 1d8. When the wall reaches 0 feet in height, the jutsu ends. A creature caught in the wall can attempt to move within it, but every foot moved costs 3 feet of movement. Because of the force of the wave, the creature must make a successful Strength (Athletics) check against your ninjutsu save DC in order to move at all. If it fails the check, it can't move. A creature that moves out of the area falls to the ground.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 95"
+    },
+
+    "Jet Propulsion Barrage": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Instant",
+        "components": [
+            "CM",
+            "M"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Taijutsu"
+        ],
+        "description": "An enhanced version of the “Machine Gun Punch” Taijutsu, you make multiple, incredibly fast and powerful attacks. Make a number of Melee Taijutsu attacks equal to your proficiency bonus, dealing your [Unarmed Damage Die] + 2d6 Force. Raw Chakra Form: If you cast this jutsu when within your Raw Chakra Form, you cannot have disadvantage on the attack rolls.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 100"
+    },
+
+    "Warp Beam Reflection": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Reaction, when a creature makes a Ninjutsu attack roll against you.",
+        "range": "Special",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "15 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "Aiming cannons from out of your chest, you attempt to produce so much fire-power you can push back an attack. When a creature makes a ninjutsu attack roll at you, by casting this jutsu you can propel it back. Make a ninjutsu attack roll. If your attack roll is higher than theirs, you are not hit by the attack, instead sending it back at them. The pushed back attack deals the full damage it would have and any other effects that the jutsu you reflected dealt. You must cast this jutsu before the creature makes its attack roll. Raw Chakra Form: If you cast this justu within Raw Chakra Form, you have advantage on the Ninjutsu Attack Roll.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 100"
+    },
+
+    "Toughened Forest": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Bonus Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "Hardening raw chakra over your body, your body grows thick scales. For the duration, your AC increases by +1 and when you would take non-psychic damage, reduce it by 6. If you are wearing medium armor, you reduce non-psychic damage by 4 instead. If wearing heavy armor, you reduce non-psychic damage by 2 instead. While you benefit from this jutsu, you have advantage on Constitution Saving Throws. Raw Chakra Form: When you are in your Raw Chakra Form and benefiting from this jutsu, you do not spend Chakra to concentrate on it.\n\nAt Higher Ranks: For each rank above B-Rank you cast this jutsu, increase the cost by 3 and the Damage Reduction by 3. If wearing medium armor, increase it by 2 instead. If wearing heavy armor, increase it by 1 instead.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 100"
+    },
+
+    "Dance of Clematis: Flower": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Movement Speed",
+        "duration": "Instant",
+        "components": [
+            "M",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Bukijutsu"
+        ],
+        "description": "You pour chakra into your arm, over-calcifying it creating a large drill shaped bone that covers the lower half of your arm starting at your elbow. You dash as your full movement in a straight line stopping at the first creature you encounter. Make a melee taijutsu attack against the creature dealing 7d10 piercing damage. This attack has a +2 bonus to its critical threat range.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and damage by 2d10.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 106"
+    },
+
+    "Dance of Clematis: Vine": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "1 minute",
+        "components": [
+            "M"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Bukijutsu"
+        ],
+        "description": "You tear out your spine while also tripling its length and changing its structure by adding sharpened spikes to it. This becomes a modified Bone Weapon modeled after a whip. It uses the statistics of the whip weapon, but its damage die is 2d6 and it has the Reach 4 weapon property. Creatures grappled by this weapon cannot form Hand signs (HS).",
+        "source": "Jiraiya's Jutsu Compendium Pg. 106"
+    },
+
+    "Demonic Instrument: Trio Requiem": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Full Turn Action",
+        "range": "10 Feet",
+        "duration": "10 Minute",
+        "components": [
+            "HS",
+            "CM",
+            "CS",
+            "W (Auditory Ninja Tool)"
+        ],
+        "cost": "Special (15 Chakra)",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You summon 1 of 3 legendary Doki to your aid. Doki can be controlled on your turn using your bonus action while equipped with your Auditory Ninja Tool. As a Bonus action on your turn, you can dismiss all summoned Doki. If a Doki is reduced to 0 Hit Points it unsummons, and you cannot summon the same Doki until you complete a full rest. Additionally, you can not summon the same Doki more than once per long rest and you cannot have more than one of the same Doki summoned at a time. While your Doki is within 5 feet of an ally, and that ally is targeted by an attack, you can use your reaction to command the Doki to interpose the attack, becoming its new target. Some Doki abilities may require a saving throw, in which case the DC is equal to your Ninjutsu or Genjutsu Save DC.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 5 and the number of Doki summoned by 1. You cannot summon more than 1 of the same Doki this way",
+        "source": "Jiraiya's Jutsu Compendium Pg. 111"
+    },
+
+    "Demonic Instrument: Amped Wave": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "CM",
+            "W (Auditory Ninja Tool)"
+        ],
+        "cost": "11 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Genjutsu",
+            "Auditory",
+            "Tactile"
+        ],
+        "description": "You flow chakra through your Auditory Ninja Tool, enhancing its sounds with terrifying melodies. Genjutsu you cast with the Auditory Keyword reduce their Critical Fail range by 2. This does not stack with other effects that would reduce your Critical Fail range.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and the Critical Failure range by 1.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 111"
+    },
+
+    "Plasma Release: Neon Step": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Bonus Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fire Release",
+            "Lightning Release"
+        ],
+        "description": "You transform your entire body into Neon. Your movement speed is doubled, ranged attacks have disadvantage to hit you, and you may use your reaction to teleport to a source of bright light if that source of light is within a range equal or less than your movement\n\nspeed away from you. Doing this causes this jutsu to end and the light source to dissipate.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost by 3. If this jutsu is cast to A-Rank or higher, using the special reaction granted by this jutsu no longer automatically ends it the first time you use this reaction per casting. If this jutsu is cast to S-Rank, your movement speed is instead tripled.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 117"
+    },
+
+    "Plasma Release: Chaos Rising": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fire Release",
+            "Lightning Release"
+        ],
+        "description": "(This jutsu cannot score a critical hit.) You send plasma chakra into your limbs and prepare an assault on a target. Make 3 melee ninjutsu attacks on a target creature, dealing 3d8+3 fire damage and knocking them 10 feet into the air on each hit (You rise with the creature). If you hit with 2 or more attacks, the creature becomes Shocked until the end of their next turn. If you hit with all 3 attacks, the creature becomes burned for the same duration.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3. If cast to S-Rank, increase the damage by 1d8+1.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 117"
+    },
+
+    "Steel Release: Steel Suit": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Earth Release"
+        ],
+        "description": "You wrap a thin sheet of metal around your body to greatly increase your defensive capabilities. You cannot lose concentration on this jutsu as a result of damage. For the duration of this Jutsu you gain 10d10 Temp hit points. These Temporary Hit points reduce any damage taken by -5 excluding lightning damage. Also, while you have temporary Hit Points granted by this jutsu you are counted as a Quake Shard and deal +2d10 additional damage on all unarmed and melee weapon attacks, twice per turn. When the temporary Hit Points provided by this jutsu reach 0 the jutsu ends.\n\nAt Higher Ranks: For each rank you cast this jutsu above C-Rank, increase the cost of this jutsu by 3 and the temporary hit points by 1d10.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 121"
+    },
+
+    "Steel Release: Binding Metal Chains": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "90 feet (20-Foot Radius)",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Earth Release"
+        ],
+        "description": "You focus your chakra deep underground creating a huge amount of steel before dozens of steel chains launch outside of the surface attempting to restrain those you command them to. Each creature within range that you select must make a Dexterity saving throw. On a failed save the target takes 4d8 [X] damage and is restrained by your chains. For the remainder of the Jutsu if a creature enters the range of your chains or starts there turn in the range of the chains while not already being restrained by the chains you may choose for them to make a Dexterity saving throw or become restrained and take 4d6 [X] damage. A creature can attempt to stop being restrained by the chains by making a Strength Saving throw at the end of each of their turns to end being restrained. The area taken up by the chains is counted as difficult terrain.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3, and the radius by 10 feet and the damage by 2d8 and 2d6 respectively.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 121"
+    },
+
+    "Dark Rift": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 feet",
+        "duration": "Concentration, Up to 10 Minutes",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Genjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You attempt to send one creature that you can see within range into a pocket dimension made entirely of imaginary chakra. The target must make a Charisma saving throw. On a failed save, the targets consciousness is banished into a dimension of fiction seeing only what you want them to see. Their body is left behind as it becomes Stunned for the duration and is treated as a vegetable until their consciousness returns. If a creature affected by this jutsu is classified as an Elite or Solo they make their saving throw at advantage. A creature who fails this saving throw, while unaware of what is happening to their body, if they would take damage, they remake their saving throw for each instance of damage taken. If the targets mind must remain there for the entire duration of the jutsu, when they return, their mind suffers a shock from the shift of illusion back to reality taking 10d10 psychic damage.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 127"
+    },
+
+    "Dark Contingency": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "10 Minutes",
+        "range": "Self",
+        "duration": "10 Days",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "Choose a jutsu of B-Rank or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that jutsu—called the contingent jutsu—as part of casting contingency, expending chakra for both, but the contingent jutsu doesn’t come into effect. Instead, it is stored in a chakra seal on your person and takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two jutsu. For example, a contingency cast with sensing technique might stipulate that sensing technique comes into effect when you are immersed in a cloud of fog or other obscuring vapor. The contingent jutsu takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then contingency ends. The contingent jutsu takes effect only on you, even if it can normally target others. You can use only one contingency jutsu at a time. If you cast this jutsu again, the effect of another contingency jutsu on you ends. It also ends if the chakra seal is ever removed from you.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 127"
+    },
+
+    "Swift Release: Flash Step": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute.",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Wind Release",
+            "Lightning Release."
+        ],
+        "description": "You focus your Chakra into your legs, granting you an immeasurable amount of speed, leaving the view of all until you’re prepared for your next move. You cannot lose Concentration on this Jutsu as a result of damage. Roll a d20 at the end of each of your turns for the duration of the jutsu. On a roll of 11 or higher, you vanish from your current location, moving at hyper speed. At the start of your next turn, and when the jutsu ends if you are still running, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space chosen at random. You can dismiss this jutsu as an Action. While moving at hyper speed, your Chakra flow to your senses are slightly restricted. You can only see shades of gray, and you can’t see anything more than 60 feet away from the space you vanished. You can’t affect anything while in this state either.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 132"
+    },
+
+    "Swift Release: Spiraling Flash": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "30 feet",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "M"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Wind Release",
+            "Lightning Release."
+        ],
+        "description": "You can briefly become faster than the eye can see as you go to strike a selection of targets. Select a number of creatures within range, up to an amount equal to your proficiency bonus. Make a melee Ninjutsu attack against each target. On a hit, a target takes 7d8 Wind damage. For every successful attack you make, you gain a +1 bonus to your next Saving throw or skill check, up to a maximum of +5, until the end of your next turn. Additionally, after all attacks have been made, you can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 133"
+    },
+
+    "Black Spider Lily": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "90 feet",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "As part of the requirements of this jutsu, you must know the Shadow Possession Jutsu. This is an advanced version of the “Shadow Possession” jutsu. Select up to 8 Creatures within range, each creature must make a Dexterity saving throw. On a failed save the target is restrained and counts as being under the effect of the Shadow Possession Nara clan Hijutsu of equal rank to this Jutsu’s Casting.\n\nAt Higher Ranks: For each rank you cast this jutsu above C-Rank, increase the cost of this jutsu by 3, and select 1 additional target creature in range.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 137"
+    },
+
+    "Shadow Transport Technique": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Bonus Action",
+        "range": "Self",
+        "duration": "Instant",
+        "components": [
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "As part of the requirements of this jutsu, you must have the Shadow Possession Jutsu. You can select a creature currently restrained by the Shadow Possession, Shadow Imitation Field, Shadow Sewing Needle or Black Spider Lily jutsu. You can fall into your shadow, moving through it and coming out within 5ft of a restrained target. You must still be in range of other creatures you have restrained, otherwise those jutsu immediately ends on those creatures.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 137"
+    },
+
+    "Storm Release: Black Lightning": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Bonus Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "Special (14 Chakra)",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Water Release",
+            "Lightning Release"
+        ],
+        "description": "You manifest a surge of black lightning chakra from your body, boosting your storm release to new heights. This jutsu's effects change depending on your chosen Style with the Twin Style Clan Feature. You do not need to spend chakra to maintain concentration of this jutsu.\n\n• Storm Style: Your Lightning Release takes on a black color as an aura of black electricity surrounds you. For the duration, when you deal lightning damage or cast a jutsu with the Lightning Release keyword, you may spend 3 chakra to grant the following benefits;\n\no +1 bonus to Save DC.\n\no +2d6 bonus to damage, up to two times per casting. If the target is Shocked, this bonus becomes +2d8.\n\no Grant the Lightning Release jutsu the benefits of any Overcharge effects it may possess.\n\n• Laser Style: You form a blade of water and violently mash both your Lightning and Water Release chakra natures to create a black blade of electrified lightning known as the Laser Blade. This weapon counts as any melee weapon of your choice that you are proficient in (choose which weapon upon casting), gaining the weapon's properties and the following benefits;\n\no Weapon attacks made with the Laser Blade count as Ninjutsu attacks for the purpose of interacting with features, and may use your Ninjutsu ability modifier for attack and damage rolls.\n\no The weapon's damage die is replaced with 3d8 lightning damage. If used as a component in a Bukijutsu, after your weapon's damage is dealt the first time in the Bukijutsu's casting, it is lowered to 2d8 for the rest of the casting.\n\no If you hit a hostile creature wielding a non- chakra enhanced weapon that is benefitting from a bonus to AC from a feature, jutsu, or trait that requires this weapon, you slice right through their weapon,\n\ndestroying it.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 143"
+    },
+
+    "Storm Release: Laser Dance": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "90 feet",
+        "duration": "Concentration, Up to 1 Minutes",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Water Release",
+            "Lightning Release",
+            "Laser Style"
+        ],
+        "description": "You form your storm Chakra into a large sphere and send it to a point you can see within range. As part of casting this jutsu, and as an action on each of your subsequent turns, you can Fire up to three beams of Lightning, making up to 3 ranged ninjutsu attacks against creatures within a 30-foot radius of the sphere. You can direct these beams towards a single target or many, up to the number of beams you Fire. On a hit, you deal 3d6 Lightning damage. If you hit the same creature with at least two beams, the creature must succeed on a Constitution saving throw, being incapacitated until the end of your next turn on a failed save, overloading their body with supercharged storm Chakra.\n\nAt Higher Ranks: For each rank you cast this jutsu above C-Rank, increase the cost of this jutsu by 3, and the number of attacks by one.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 144"
+    },
+
+    "Storm Release: Storm Wave": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (60-foot Cone)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Water Release",
+            "Lightning Release",
+            "Storm Style"
+        ],
+        "description": "You conjure and Fire a 60-foot cone in front of you. All Creatures in the radius must succeed a Constitution saving throw, taking 8d8 Lightning damage and gaining 2 ranks shocked on a failed save, or half as much damage, and 1 rank of shocked until the end of an affected creatures next turn on a successful save.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 144"
+    },
+
+    "Destructive Wave": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (30-foot radius)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Clash"
+        ],
+        "description": "(This jutsu deals the same damage type as the nature release chosen by your Blood of the Dragon Clan Feature) You collect your Elemental energy into your body and compress it into a single spot like your mouth or hands and prepare to Fire in all directions by striking the ground creating a shockwave the Fires out in all directions overwhelming all enemies. Each creature you choose within 30 feet of you must succeed a constitution saving throw or take 10d6 damage and be knocked prone on a failed save or half as much on a successful one.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3, damage by 2d6 and size of the area by 10 feet.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 148"
+    },
+
+    "Dragon Cloak": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "You cover your body in Chakra and mold it until its visible to the naked eye. Your Chakra then begins to bubble and boil until it takes the shape of a dragon like shell the covers your entire form. You are still visible inside the construct of Chakra. For the duration, you gain 30 Temporary Hit Points, your unarmed attacks deal an additional die of damage and you gain a +2 bonus on Constitution and Wisdom saving throws while you still have temporary hit points from this jutsu. If you cast this jutsu while you are gaining the benefits of Dragons Rage or Dragons Wrath, you reduce the cost of this jutsu by 3 for each one currently active. Additionally, if you are gaining the benefits of Dragons Wrath you no longer need to maintain concentration on this jutsu but you still gain its benefits for the duration of this jutsu.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and Temporary Hit points by 15.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 149"
+    },
+
+    "Wood Release: Wood Clone": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "Special (10 Chakra)",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Earth Release",
+            "Water Release",
+            "Clone"
+        ],
+        "description": "You clap your hands together as you inject chakra into the ground conjuring clones made of wood. This is an even more advanced Version of the Shadow Clone Technique, where you manifest clones made of hardened, malleable and dense wood known as a Wood Clone. You can conjure up to 6 Wood Clones at once, each costing 10 chakra per clone. Wood Clones act at once and all attempt to perform the same command give. If commanded to perform the help action, they can only help the Summoner. Wood Clones are conjured with a replica of any weapons you have on you at the time of creation that is also made from chakra enhanced wood. When a Wood Clone makes an attack using this weapon or an unarmed attack it deals 1d10+Ninjutsu ability modifier earth damage regardless of the attack used. It can make up to 2 attacks using its action. All Wood Clones have 15 Hit Point and can use all Senjutsu Hijutsu on your known list of C-Rank or lower up to twice, each. Wood Clones use your Constitution save bonus for all saving throws. After the clone reaches 0 Hit points, performs 2 Senju clan Hijutsu or is dismissed as a bonus action, the jutsu ends.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 155"
+    },
+
+    "Wood Release: Wood Dragon Summoning": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "30 feet",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "Special (14 Chakra)",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fuinjutsu",
+            "Earth Release",
+            "Water Release",
+            "Construct"
+        ],
+        "description": "You clap your hands together as you inject Chakra into the ground conjuring a massive wooden serpentine dragon. You command the Dragon and it only listens to you (no action needed), acting at the end of each of your turns. It is proficient in all saving throws, using your Ninjutsu ability modifier as its Proficiency bonus and uses your ninjutsu attack bonus or save DC for effects that require it. You may as a Bonus action, or reaction cause the dragon to use its Detonation ability. It uses the following Statistics;",
+        "source": "Jiraiya's Jutsu Compendium Pg. 156"
+    },
+
+    "Scorch Release: Hellfire Murder": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (30-foot radius sphere)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Wind Release",
+            "Fire Release"
+        ],
+        "description": "You conjure globes of superheated flame that you use to manifest a massive ball of super-heated flame about 8 feet in diameter. You then slam this ball into the ground directly under you attempting to incinerate everything near you. All creatures, excluding you, within the radius must succeed a Constitution Saving Throw. On a failed save, they take 6d8+6 Fire damage and gain 2 ranks of Burned or half as much damage on a success You can spend motes created by the Scorch Release: Scorching Murder to enhance this jutsu. For every two motes spent this way, you select one creature to be unaffected by this jutsu and increase this jutsu’s damage by 2d8. You can spend up to 4 motes this way. You can spend up to 4 motes this way.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3, and the radius by 15 feet.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 160"
+    },
+
+    "Scorch Release: Vengeful Mirage": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "11 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Wind Release",
+            "Fire Release"
+        ],
+        "description": "You conjure globes of superheated flame and enhance the body of a creature you touch, increasing its reactionary speed significantly. For the duration you do not need to spend Chakra to maintain this jutsu. The affected creature’s [Unarmed Damage] becomes 4d4+4 Fire damage instead of whatever it did previously. Creatures who would make a melee attack against the affected creature, must make a Wisdom saving throw as they see a mirage made from extreme heat. On a failed save they gain a +1 rank of Weakened.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 161"
+    },
+
+    "Paper Chakram": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "5 feet (120 feet)",
+        "duration": "1 minute.",
+        "components": [
+            "CS"
+        ],
+        "cost": "10 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "You create an incredibly sharp chakram of paper, which you mentally command to attack opponents repeatedly for the duration or until you dismiss this jutsu. When you cast this jutsu, the chakram appears within 5 feet of you, and you can move the chakram up to 30 feet and make an attack against a target within 5 feet of the chakram. On a hit, the target takes slashing damage equal to 6d6 + your ninjutsu ability modifier. The chakram has a critical hit range of 19-20. On a critical hit, the target also gains the 4 ranks of the bleeding condition. As a bonus action on each of your turns, you may move the chakram up to 30 feet and repeat the attack against a target within 5 feet. While under the effects of Dance of the Shikigami, when moving the chakram, you may have it make an attack against each creature it passes during its movement. A creature can only be targeted by the chakram once per turn.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost by 3, the damage by 1d6 and the critical hit range by 1.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 168"
+    },
+
+    "Paper Coffin": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "80 feet",
+        "duration": "Concentration, Up to 1 minute.",
+        "components": [
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Construct"
+        ],
+        "description": "You cover a target in sheets of paper, with restrict their movements and plug their nose and mouth, suffocating them. You do not need to pay chakra, to maintain concentration on this jutsu. A target creature you can see within range must succeed on a Dexterity saving throw or be covered by countless sheets of paper. On a success, they avoid the paper, ending the jutsu. While trapped by the paper, they are restrained, unable to cast jutsu that require Hand Signs (HS), draw or stow weapons or make complete complex body movements like making a weapon attack. They also begin suffocating. At the start of each of the suffocating creatures turns, it takes 5d6+15 Necrotic Damage that cannot be reduced by any means. A creature that does not need to breathe cannot take damage from this jutsu. During this time, the creature cannot speak, but you can allow it to do so, halting the suffocation by one round. At the end of the creature's turn, it can make a Strength saving throw, breaking free of the paper on a successful save. A creature can attempt to destroy the paper Coffin you have created. Your Sokushinbutsu has an AC equal to your Ninjutsu save DC, 25 Hit points and Vulnerability to Fire damage. If your Sokushinbutsu’s hit points are reduced to 0, this jutsu ends.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 169"
+    },
+
+    "Crystal Release: Crystal Fruit": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action or Reaction, which you take when a creature you see would take damage.",
+        "range": "90 Feet",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Earth Release",
+            "Construct"
+        ],
+        "description": "You manifest a pink, blue, red, or green crystal dome around a creature of your choice within range designed to protect or trap a creature. If this jutsu is cast targeting a willing creature, you manifest the crystal dome around them almost instantly. This dome intercepts all attacks and damaging effects except Genjutsu. If this jutsu is cast targeting an unwilling creature, that creature makes a Dexterity saving throw being encased in the dome on a failed save. While inside the crystal dome, it intercepts all attacks and damaging effects except Genjutsu. The dome an AC equal to your Ninjutsu save DC, Resistance to Cold Damage and Vulnerability to Lightning Damage and a number of Hit point equal to 6d8+15. A creature cannot willingly pass through the crystal, requiring it to be destroyed, dispelled, removed in order to move from the creatures current space.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank increase the cost by 3 and the number of hit points the Dome has by 1d8+5.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 173"
+    },
+
+    "Crystal Release: Crystal Prison": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Touch",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Earth Release"
+        ],
+        "description": "You manifest a pink, blue, red, or green crystalline structure, completely encasing a creature you touch within. This jutsu’s cost and concentration costs cannot be reduced by any means except by Crystal Release: Jade Crystal Hexagonal Pillars. Make a melee ninjutsu attack. On a hit, the target must succeed a Constitution saving throw, on a failed save you infuse your target with your Crystal Release Chakra for the next minute. At the beginning of each of its turns must succeed a Constitution (Chakra Control) check vs your Ninjutsu Save DC for the duration. Each time a creature fails, their cellular structure begins to resemble that of a Crystal. A creature who fails one or more times gains one rank of the Slowed Condition as it becomes hard to move the way they want. A creature who fails two or more times gains the restrained condition as their cells begin to take on a crystalline make up solidifying and crystallizing them. A creature who fails three or more times becomes incapacitated as their body is overtaken by crystalline cells. A creature who fails five or more times becomes Petrified permanently, until you recast this jutsu on them, or a Ninjutsu with the medical Keyword that removes conditions of any type is cast on them at A-Rank or Higher. If their Petrified figure is damage or destroyed in anyway, the creature petrified, is immediately killed, with no way to be revived.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 173"
+    },
+
+    "Formation of Ten Thousand Snakes": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60-Foot cone",
+        "duration": "Instant",
+        "components": [
+            "CM",
+            "HS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "You release a countless number of snakes from your mouth or cloth that moves violently towards everyone in front of you. Creatures in a 60-foot cone originating from you must succeed a Constitution saving throw at disadvantage, taking 3d10 piercing and 3d10 poison damage and gaining two ranks of envenomed on a failed save. On a successful save they take half damage and suffer no additional effects.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and increase the damage by 1d10.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 178"
+    },
+
+    "Gathering of the Snakes": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Reaction, which you take when you would take lethal damage of any type or when you would be bisected, beheaded, or would lose any limb.",
+        "range": "Self",
+        "duration": "Instant",
+        "components": [
+            "CM",
+            "HS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "Snakes emerge from where the user was damaged, and pull the body back together, undoing the damage sustained. After using this jutsu, you cannot use it again for 1d4 weeks.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 178"
+    },
+
+    "Spider Art: Terrible Split": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Bonus Action",
+        "range": "Self",
+        "duration": "Instant",
+        "components": [
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Bukijutsu"
+        ],
+        "description": "You create a handful of special golden arrows with a drill like tip capable of ripping and shredding through, rock, bone, steel and flesh alike. You manifest a d4 stack of drill tipped arrows which can only be used with a Web Short or Longbow or When you can a Tsuchigumo clan Hijutsu that requires a Web Short or Longbow. When used as ammunition your [Weapon Damage] becomes 3d10 and pierces DR (damage reduction), temporary hit points and interposing structures.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 183"
+    },
+
+    "Spider Art: Brood Mother Summoning": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 feet",
+        "duration": "1 Minute",
+        "components": [
+            "HS",
+            "CS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You weave handseals as you summon your clan’s ancestral protector, the Brood Mother Arachnid. This is a Large creature that acts on its own at the end of each of your turns. You can give it direction as a bonus action on your turn, in which if you do it gains a bonus +2 to its attacks and checks as a result of receiving direction, otherwise it will act in your favor attempting to cause harm to your enemies as seen in its stat block. It uses your Ninjutsu attack bonus and Save DC when an effect calls for it. If it is killed, it is unsummoned and must spend at least 1 week regenerating, before it can be summoned again.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and the Brood Mothers Arachnids hit points by 30.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 183"
+    },
+
+    "Uchiha Flame Flower": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "120 feet",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Fire Release"
+        ],
+        "description": "This is a unique variation of the Fire Release: Hot Sun Jutsu, where you create 8 smaller ruby red spheres of Fire in the air and have them float midair no higher than 30 feet and no further than 120 feet from you. As a Bonus action on your turn, you may command a single sphere to attack a single creature. Make a Ninjutsu attack against a single creature. On a hit they take 4d8+4 Fire damage and the sphere is lost. If you miss you still lose one of the Fire spheres.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 188"
+    },
+
+    "Genjutsu: Ephemera": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 feet",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Genjutsu",
+            "Visual",
+            "Unaware"
+        ],
+        "description": "As part of the requirements of this jutsu, you must have the Sharingan clan feature active. You look towards a target creature and attempt to place them into powerful illusion designed to torture them if they choose to not follow your command. You can give them any 1-word command that they can reliably accomplish in 6 seconds. If the command would cause harm to them in some way, this jutsu automatically ends. If they submit to the command they perform it and continue to perform it, even if they already completed it. They would repeat the same action forgetting that they already did the task for the duration. If they choose to resist the command they must make a Wisdom saving throw. Critical Success: This jutsu ends and the target becomes immune to this jutsu for the next minute. Success: This jutsu ends and the target resists its effects. Failure: The target begin to experience a massive torrent of torturous visions of your choice, that both you and they can see. Their fears, concerns, desires and regrets begin to materialize on the targets body in a variety of different ways of your description. Each turn they begin not completing your request, they take 5d10 psychic damage, gain 1 rank of Concussed and 1 rank of confused. Critical Failure: Same as failure, but the damage die instead becomes a d12.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 189"
+    },
+
+    "Uzumaki Stubbornness": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Reaction, which you take when you would fall to 0 hit points.",
+        "range": "Self",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "Special (12 Chakra)",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu"
+        ],
+        "description": "Your determination and Chakra reserves are powerful enough to keep you standing despite your body suffering grievous injuries. When you fall to or below 0 hit points, you may as a reaction inject Chakra throughout your body forcing yourself to survive, instead dropping to 1 hit point. At the beginning of your next turn, you gain 1 rank of weakened for the next minute as the stress from maintaining consciousness and fighting through the trauma takes its toll on you.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 193"
+    },
+
+    "Uzumaki Break": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 feet (10-foot cube)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Fuinjutsu",
+            "Ninjutsu"
+        ],
+        "description": "Using your knowledge of seals and Fuinjutsu, you surgically attempt to dismantle and break all jutsu you see within range, that is currently being maintained or is active. As part of the activation of this jutsu, select a space you can see with range make a Ninjutsu ability check against a DC (13+ rank of the jutsu, D-Rank: 1, C-Rank: 2, B-Rank: 3, A-Rank: 4, S-Rank: 5). On a success you understand the inner workings of all active Ninjutsu and Genjutsu of the result rank or lower in range and how to break them, immediately ending its effects. You decide which jutsu you want to affect when you cast this jutsu.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 193"
+    },
+
+    "Thrall": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "10 feet",
+        "duration": "10 Minutes",
+        "components": [
+            "CM"
+        ],
+        "cost": "13 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Genjutsu",
+            "Visual",
+            "Auditory"
+        ],
+        "description": "Whispering words of command or affection to a creature close to you, you force them into servitude. They must succeed a Charisma Saving Throw or become Charmed. While Charmed this way, they will act as your loyal servant and perform actions they normally may not, such as even harming an ally. If you command them to harm their allies in any way, they may remake their saving throw once the command is executed, ending this condition and thus this jutsu on a success. Starting from the second time you command a creature to harm their allies, the creature gains a +1 bonus to their saving throw to end this jutsu, which stacks.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 198"
+    },
+
+    "Vampyr": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Taijutsu"
+        ],
+        "description": "You tap deep into your bloodline, unleashing a similar power to what the great Bat Sage once had, becoming a true creature of darkness. For the duration, gain the following features;\n\n• You gain a +2 bonus on all Strength, Dexterity and Charisma skill checks and saving throws.\n\n• You benefit from the Claws of Night jutsu at no extra cost and the damage of the claws increases to 2d8.\n\n• Your Speed increases by 15ft, and you do not provoke attacks of opportunity.\n\n• Once per turn, you may deal an additional 2d4 Necrotic Damage when dealing damage of any kind.\n\nIf you are within Dim Light or Darkness, you gain additional benefits;\n\n• Increase the bonus to Strength, Dexterity, and Charisma skill checks and saving throws by +1 (+3), and gain this bonus on attack rolls made using these ability scores.\n\n• Increase your movement speed further by +15 feet.\n\n• Each time a creature would gain any ranks of Charmed or Fear from you, increase the total by 1.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 198"
+    },
+
+    "Multi-Swing Style: Third Cut": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Reaction, which you take after you score a hit with Multi-Swing Style: Second Cut.",
+        "range": "Weapon Range",
+        "duration": "Instant",
+        "components": [
+            "W (Katana or Odachi)",
+            "M"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Bukijutsu",
+            "Hijutsu"
+        ],
+        "description": "This jutsu can only be cast directly after you hit with Multi-Swing Style: Second Cut and must target the same creature. After performing the diagonal slash, you bring your sword upward in the opposite direction creating an “X” slash across their chest. Make a melee taijutsu attack on a creature within range. On a hit you deal your weapons damage + 6d10 and the target must succeed a Constitution saving throw or become stunned until the end of their next turn.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and the damage by 1d10.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 202"
+    },
+
+    "Single-Swing Style: Multi-Cut": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (30-foot Line)",
+        "duration": "Instant",
+        "components": [
+            "W (Katana or Odachi)",
+            "M"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Bukijutsu",
+            "Hijutsu"
+        ],
+        "description": "You quickly dash forward in a straight line attempting to cleave multiple people in two. Make a melee taijutsu attack, comparing the result against each creature within a 5-foot wide, 30-foot long line. On a hit you deal your weapons damage + 6d10 and creatures must make a Constitution saving throw, gaining 2 ranks of bleeding on a failed save. If you roll 4 or more 10’s on this jutsu’s damage die, the first creature hit by this attack is instantly cleaved in half, instantly killing them, for each additional 10 you roll afterwards, the next creature in the line is also cut in half.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3, the damage by 1d10, and the length of the line by 15 feet.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 202"
+    },
+
+    "Mass Mind Body Dance": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "60 Feet",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Genjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You issue a course of action (limited to a sentence or two) and influence up to 6 creatures of your choice that you can see and can hear you within range. Each target must make a Charisma saving throw against your Genjutsu save DC. On a failed save it pursues the course of action to the best of its ability. A creature cannot be ordered to harm themselves in any way or be made to perform an action that they know would harm themselves as a result. The commanded action will continue to be attempted the entire duration. If the activity is completed in a shorter time, the jutsu immediately ends. Creatures are fully conscious of their actions, but cannot stop themselves for the duration of this jutsu. If a creature would take damage of any kind for the duration, they remake the Saving throw at Advantage.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 207"
+    },
+
+    "Mass Mind Body Disjunction": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (30 Feet)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Genjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "Using the same principles as Mind body disturbance, you emit a wave of psychic chakra that resets the connection of a creatures mind and body. All creatures of your choice within 30 feet of you, must succeed a Charisma saving throw, taking 8d6 psychic damage and becoming dazed until the start of your next turn on a failed save or half\n\nas much on a success.\n\nAt Higher Ranks: For each rank you cast this jutsu above C-Rank, increase the cost of this jutsu by 3 and the damage by 2d8.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 207"
+    },
+
+    "Lava Release: Lava Chakra Mode": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "11 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Earth Release",
+            "Fire Release"
+        ],
+        "description": "You coat your body in lava release Chakra, gaining a multitude of benefits. You cannot lose concentration on this jutsu as a result of damage;\n\n• You gain a +2 bonus to AC.\n\n• You gain 10 temporary hit points at the beginning of each of your turns.\n\n• You gain Immunity to Fire and Earth damage.\n\n• You gain resistance to bludgeoning, piercing, slashing and Wind damage\n\n• You gain Vulnerability to cold damage.\n\n• You count as a Quake Shard for jutsu or features that you use that require them.\n\n• At the end of each of your turns, adjacent creatures of your choice takes 5 Fire damage. This pierces DR (damage reduction)\n\n• Your [Unarmed Damage] becomes 2d6 Fire damage.\n\n• Successful melee attacks against you deal 10 damage to the attacking creature. This pierces DR (damage reduction).\n\n• Yoton clan Hijutsu increases their damage die by 1 step. (D4>D6>D8>D10>D12).\n\n• When you would create difficult terrain using a jutsu with the Earth Release keyword, the affected spaces become lava pools, dealing 1d10 Fire damage to creatures who begin their turns in them.\n\n• When you would create an area of effect using a Jutsu with the Fire Release keyword, the affected space becomes superheated with molten stone until the beginning of\n\nyour next turn. Creatures who begin their turn in this area gain 1 rank of the burned condition.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3 and temporary hit points by +5.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 211"
+    },
+
+    "Lava Release: Scorching Stream Rock": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (60-foot line)",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Earth Release",
+            "Fire Release"
+        ],
+        "description": "You coat your hand in Lava release Chakra as you punch forward creating a super-heated shockwave with enough heat to melt rock. All creatures structures and constructs in a 60 feet long, 5 feet wide line directly in front of you must succeed a Dexterity saving throw taking 8d8 Fire damage on a failed save and gaining the burned and corroded condition. On a successful save, you instead deal half damage. All Structures that are destroyed by this jutsu melt becoming a molting pool of fluid that acts like Lava. Its space becomes difficult terrain. A creature that attempts to move through the affected space takes 2d10 Fire damage and gains the burned and corroded conditions.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of the jutsu by 3, and damage by 2d8.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 211"
+    },
+
+    "Tearing Dragon, Fierce Tiger": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "90 feet",
+        "duration": "Instant",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Water Release",
+            "Wind Release"
+        ],
+        "description": "You conjure a large Tiger or dragon made of snow or ice you make. Upon casting this jutsu choose which creature you summon which determines how the Jutsu works and its range and effect radius.\n\n• Tiger: The Tiger forms and begins to rush at a target creature. If there is any Water or Water Release Jutsu in between you and the target creature, it immediately freezes, ending the jutsu. Creatures submerged within Water or gaining the benefits of a Water Release jutsu with a range of Self or Touch must succeed a Dexterity save, gaining 2 ranks of chilled on a failed save. Upon reaching the target, the Ice Tiger then explodes firing ice shards in a 30-foot radius centering on the target. All creatures in the radius must succeed a Dexterity saving throw taking 12d4 cold damage and gaining 1 rank of Chilled on a failed save or half as much damage and no further effects on a successful save.\n\n• Dragon: The Dragon forms and begins to rush at a target creature. If there is any Water or Water Release Jutsu in between you and the target creature, it immediately freezes, ending the jutsu. Creatures submerged within Water or gaining the benefits of a Water Release jutsu with a range of Self or Touch must succeed a Dexterity save gaining 2 ranks of chilled on a failed save. Upon reaching the target, the dragon slams into the target creature. Creatures in a 90-foot long, 10-foot-wide line, originating from you, must succeed a Strength saving throw taking 8d6 cold damage, gaining 1 rank of chilled and are push back 10 feet on a failed save or half as much damage and no further effects on a successful save.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 215"
+    },
+
+    "Twin Dragon Whirlwind": {
+        "classification": "Hijutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self (20-foot radius sphere)",
+        "duration": "Concentration, Up to 1 Minute",
+        "components": [
+            "HS",
+            "CM"
+        ],
+        "cost": "12 Chakra",
+        "keywords": [
+            "Hijutsu",
+            "Ninjutsu",
+            "Water Release",
+            "Wind Release"
+        ],
+        "description": "You freeze the air around you and swirl it creating a localized ice storm. For the duration you cannot be targeted by ranged attacks or effects that require line of sight. Creatures who enter the radius of your whirlwind must make a Constitution saving throw. On a failed save, they gain 2 ranks of chilled. Additionally, creatures within the radius of this jutsu who failed the saving throw are blinded by the strong Winds and ice shards slicing at their eyes for the duration or unless they leave the radius.",
+        "source": "Jiraiya's Jutsu Compendium Pg. 215"
     }
 }
+
