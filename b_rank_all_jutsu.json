@@ -1,0 +1,21 @@
+{
+    "Bestial Art: Hunter": {
+        "classification": "Ninjutsu",
+        "rank": "B-Rank",
+        "casting_time": "1 Action",
+        "range": "Self",
+        "duration": "Concentration, Up to 1 minute",
+        "components": [
+            "HS",
+            "CM",
+            "CS"
+        ],
+        "cost": "14 Chakra",
+        "keywords": [
+            "Ninjutsu",
+            "Fuinjutsu"
+        ],
+        "description": "You infuse chakra into a chakra seal as you attempt to mark yourself with the seal of wolves. Your voice, figure, and temperament becomes bestial in nature. You grow fur of any color of your choice covering your arms, and your hands become large claws with ironlike nails. You cannot lose concentration of this jutsu as a result of damage.\n\nFor this jutsu’s duration, you gain the following benefits;\n• Your Strength Score becomes 22 or your Dexterity becomes 18 (your choice).\n• Your unarmed damage die becomes 2d8 Slashing Damage and can use whichever ability score was modified by this jutsu as the ability modifier for your unarmed attack calculations.\n• You gain a +20 bonus to movement speed.\n• Attacks of Opportunity you make are at advantage.\n• When you take the attack action, you can make two attacks instead of one, if you cannot already. If you already can, then you instead make one additional unarmed attack.\n\nAt Higher Ranks: For each rank you cast this jutsu above B-Rank, increase the cost of this jutsu by 3. If this jutsu is cast at A-Rank or higher, you cannot be seen by Chakra Sight nor can you be sensed by effects that can sense Chakra. If this jutsu is cast at S-Rank, its duration becomes 1 minute, without the need for Concentration.",
+        "source": "Jiraiya's Jutsu Compendium"
+    }
+}
