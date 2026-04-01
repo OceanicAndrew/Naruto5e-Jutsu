@@ -3531,7 +3531,7 @@
             "Ninjutsu"
         ],
         "description": "You insert a special insect that burrows into the skin of your target and then explosively grows the more flesh and chakra it consumes. Make a Melee Ninjutsu Attack. On a hit, at the start of the target creature’s next turn, the insect explodes out of their body, leaving a giant hole in their wake, dealing 10d10 Necrotic Damage that ignores Damage Reduction, 8d10 Chakra Damage, and inflicting 2 ranks of Bleed. The creature then has to succeed a Constitution Saving Throw to resist the poison the insect leaves behind or gain a rank of Envenomed. A creature can have more than one parasitic giant insect implanted in them at a time. You can choose to plant the insect subtly by making a Sleight of Hand Check against the target’s Passive Perception. You can also delay its growth by designating the number of rounds the insect will wait to start eating at the time of casting, to a maximum of 10.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3 and the Necrotic Damage by 2d10.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 8"
+        "source": "Tsunade's Studies Compendium Pg. 8"
     },
 
     "Butterfly Bullet Bomb": {
@@ -3552,7 +3552,7 @@
             "Clash"
         ],
         "description": "As part of the requirements for this jutsu, you must have either Full-Body-Expansion or Butterfly Mode jutsu active. You forcibly convert all of your remaining calories into Chakra and funneling it into your fist as you attempt to make a devastating single attack. Reduce your remaining calories to 0. Make a melee taijutsu attack against a creature in range. On a hit, you deal 10d10 Bludgeoning + 1d10 additional damage for every Calorie you had remaining before this jutsu’s casting and all creatures in a 30-foot cone behind the target creature must make a Dexterity saving throw, taking half the damage dealt as bludgeoning damage, being knocked back 20 feet and becoming staggard on a failed save. After the conclusion of this jutsu, Butterfly Mode ends immediately, and you cannot regain Calories until you take a long rest.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, Chakra cost of this jutsu by 3 and the initial damage by 2d10.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 13"
+        "source": "Tsunade's Studies Compendium Pg. 13"
     },
 
     "Explosion Release: Tower of the Sun": {
@@ -3572,7 +3572,7 @@
             "Earth Release"
         ],
         "description": "You release the chakra limiters in your body, and create a monstrous, tower shaped explosion using your body as its catalyst. You die, and leave behind no corpse. All creatures within 500 feet of you must make a Constitution saving throw, taking 200d4 + 100 Force damage on a failed save or half as much on a success. Unattended objects and structures within range of this jutsu are instantly destroyed.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3 and damage by 25d4 +25.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 18"
+        "source": "Tsunade's Studies Compendium Pg. 18"
     },
 
     "Explosion Release: Atomic Missile": {
@@ -3594,7 +3594,7 @@
             "Reckless Style"
         ],
         "description": "You propel yourself at a target within range. The target can be a space, a creature, object or structure as your use your explosion release launches you like a missile. While propelling yourself, your chakra rotates you furiously like a bullet as smoke begins to trail behind you, as you ram into your target causing a reckless explosion on impact. All creatures, and non-worn objects and structures within 60 feet of the target, excluding you must succeed a Dexterity saving throw. On a failed save taking your unarmed damage + 10d8 force damage or half as much on a successful save. Additionally, all creatures within 15 feet of the target excluding you must succeed a Constitution Saving Throw. On a failed save, they take 6d8 Force damage and all equipment not being carried or worn of Greater Quality or lower is destroyed, or they take half as much damage and no other effects on a success.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3 and damage by 2d8.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 19"
+        "source": "Tsunade's Studies Compendium Pg. 19"
     },
 
     "Explosion Release: Clay Dragon": {
@@ -3617,7 +3617,7 @@
             "Construct"
         ],
         "description": "You weave your handsigns, summoning a huge dragon formed from clay, earth or another inorganic earthen substance of your description. You cannot lose concentration on this jutsu as a result of a failed concentration check. You command the dragon telepathically and it only listens to you. It enters the initiative directly after you and requires no action to command it. It is proficient in all saving throws, using your ninjutsu ability modifier as its proficiency bonus and uses your ninjutsu attack bonus or save DC for effects that require it. You may as a bonus action or reaction cause the dragon to use its Detonation ability. The dragon has the following Statistics;\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3 and Hit points by 2d10 + 15",
-        "source": "Jiraiya's Jutsu Compendium Pg. 19"
+        "source": "Tsunade's Studies Compendium Pg. 19"
     },
 
     "Blood Dragon Ascension": {
@@ -3638,7 +3638,7 @@
             "Fuinjutsu"
         ],
         "description": "As a part of the requirements of this jutsu, you must have the Ketsuryūgan active and be near a sufficient source of water. You slash both of your wrists and allow the blood to pour into the water below. The wounds on your arms heal and the water bubbles and boils, until it erupts into a dragon. You command the Dragon, and it only listens to you (no action needed). The cost of this jutsu cannot be reduced in any way. It is proficient in all saving throws, using your Ninjutsu or Genjutsu ability modifier as its proficiency bonus and uses your ninjutsu or genjutsu attack bonus or save DC for effects that require it. (You must decide whether the Blood Dragon uses your Ninjutsu or Genjutsu scores on casting. This cannot be changed later, and it must use the same score for both its proficiency bonus, and attack and save dc). You may as a bonus action or reaction cause the Dragon to use its Detonation ability. The Blood Dragon rolls initiative as it has its own turns, using your Ninjutsu or Genjutsu Ability Modifier as its Initiative, and uses the following Statistics; The Blood Dragon uses your Ninjutsu attack bonus for its attack rolls.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 26"
+        "source": "Tsunade's Studies Compendium Pg. 26"
     },
 
     "Falling Heaven: Execution": {
@@ -3657,7 +3657,7 @@
             "Bukijutsu"
         ],
         "description": "The perfected and secret art of the Fuma Clan. The most lethal of their Falling Heaven series of jutsu. The user takes their Shuriken and line it with Chakra thin enough to separate Water molecules, and coats the blades of their weapon in such an aura before launching it with enough force to momentarily cut through gravity itself making the weapon immune to the forces of gravity for a short time. Make one Ranged Taijutsu Attack and compare the result to each creature’s AC in range (10-Foot Wide, 90-feet long). On a hit they take [Weapons Damage] +10d12 Slashing damage.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 31"
+        "source": "Tsunade's Studies Compendium Pg. 31"
     },
 
     "Typhoon Release: Severe Wind Destruction": {
@@ -3677,7 +3677,7 @@
             "Wind Release"
         ],
         "description": "You create a spiraling pillar of wind centered on yourself that towers over even the tallest of creatures. This tornado has a 45-foot-radius and is 150-foot-high. This cylinder becomes difficult terrain for each creature other than you for the duration, even for flying creatures. Unattended objects in this cylinder that are large or smaller are pulled upwards and spins around the center at 150 mph. A creature that starts its turn in the cylinder must succeed on a Strength saving throw or be pulled upwards towards the center and be restrained while in motion. All objects and creatures inside the cylinder take 5d12 wind damage at the start of each of your turns. Creatures can make a Strength saving throw at the start of each of their turns as to not be restrained for this turn. If a creature or object other than you is in this jutsu's radius for 3 consecutive turns they are flung out, after rising to the height of this cylinder taking falling damage and being knocked prone.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3 and increase the damage by 2d12.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 35"
+        "source": "Tsunade's Studies Compendium Pg. 35"
     },
 
     "Boil Release: Acidic Explosion": {
@@ -3698,7 +3698,7 @@
             "Water Release"
         ],
         "description": "You release a massive flux of acidic steam for your body, enough to fill a 20-foot radius sphere. All creatures, objects, and structures of your choice, in the radius must make a constitution saving throw taking 10d10 Acid Damage and gaining 3 ranks of Corroded on a failed save. On a successful save they take half damage. After this jutsu’s initial casting, your body continues to release acidic steam. At the beginning of each creatures turns who begins within the steams radius or who would enter the radius for the first time each turn, they must make a constitution saving throw, taking 5d10 acid damage and gaining 2 ranks of corroded on a failed save.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3, initial and secondary damage by 2d10.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 40"
+        "source": "Tsunade's Studies Compendium Pg. 40"
     },
 
     "Data Release: Ddos Attack": {
@@ -3718,7 +3718,7 @@
             "Lightning Release"
         ],
         "description": "The ultimate jutsu of the Genwa Clan, the absolute culmination of all Data Release techniques. You stick your hands out in front of you, forming two large discs of data release, one blue, one red. The sky darkens, causing your discs to become the brightest source of light. You then crash your hands together, shattering the discs and releasing particles in a 90-foot cube in front of you. From these particles, Data Angels and Data Demons form, soaring past all creatures, slashing, clawing, and blasting at them. Each creature must succeed a Dexterity saving throw, taking 7d8 Force damage, becoming Weakened, and falling prone on failed save, or half damage and no further effects on a success. The angels and demons then rise into the air and dive down with incredible force, resulting in a massive explosion. Creatures must succeed a Strength saving throw, at disadvantage if they failed their Dexterity saving throw, or take 7d8 Force damage and become Dazed and Shocked, or take half damage and no further effects on a success.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 46"
+        "source": "Tsunade's Studies Compendium Pg. 46"
     },
 
     "Hanami Style: Falling Blossom Reprise": {
@@ -3738,7 +3738,7 @@
             "Hijutsu"
         ],
         "description": "You must be under the effects of “Hanami Style: Defensive Cloak” and “Hanami Style: Offensive Cloak” to cast this jutsu. A last-ditch technique of the Haruno Clan, You use your finite control of medical chakra, spreading it throughout yourself. Your veins begin to glow a dark magenta as the chakra spreads throughout your chakra network. You lose the effects of Defensive and Offensive cloak, with this jutsu instead taking their place. You cannot concentrate on another jutsu while this jutsu is active. While under the effects of this jutsu you gain the following benefits:\n\n• When a creature hits you with a melee attack, they take 3d12 Necrotic damage and you regain an equal amount of Hit Points.\n\n• Your [Unarmed Damage] becomes 4d8 and deals Necrotic damage, additionally when you deal damage to a creature with a melee attack, they are unable to regain hit points until the end of their next turn.\n\n• When you score a critical hit with a Medical or Taijutsu, you instead triple the damage dice. At the conclusion of this jutsu, you are no longer able to mold chakra until you complete a long rest, as your chakra network is throttled by your overuse.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 50"
+        "source": "Tsunade's Studies Compendium Pg. 50"
     },
 
     "Silver Cobras Blessing": {
@@ -3757,7 +3757,7 @@
             "Taijutsu"
         ],
         "description": "You ingest a powerful potent Poison that reduces your current Chakra to 0. You gain the Envenomed condition at the conclusion of this jutsu which cannot be removed, resisted, or ignored by any means for the next hour. For the next minute you gain the following effects;\n\n• You cannot suffer the effects of the Bruised, Envenomed, weakened, slowed condition for the duration.\n\n• Your Taijutsu ability score increases by any amount equal to your Proficiency bonus.\n\n• You can cast all Hebi clan jutsu that you have on your known jutsu list at no cost.\n\n• Hebi clan jutsu that have the “Striking Stance:” pre-fix can be cast using an action, bonus action or reaction.\n\n• You can concentrate on up to 3 different Hebi Clan Jutsu ignoring any effects that would prevent you from maintaining more than one Striking Stances. After one minute, you fall unconscious for the next hour, being unable to be awoken until the hour has passed. When you awake, you awake with 1 Chakra.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 57"
+        "source": "Tsunade's Studies Compendium Pg. 57"
     },
 
     "Kujaku Art: Cosmic Flare": {
@@ -3776,7 +3776,7 @@
             "Fuinjutsu"
         ],
         "description": "As a prerequisite to this jutsu you must have the Kujaku Mode active. With your tail feathers pointed skyward, you gather a mass amount of star chakra above you. This star chakra radiates in a 120-foot sphere which ignores any form of cover and bypasses jutsu or chakra protection. For the duration, ranged attacks against you have disadvantage. You may exclude a number of creatures up to your proficiency bonus from the effects of this jutsu, all others that begin their turn in this sphere or enter it for the first time gain 1 rank of Slowed and must make two Constitution saving throws: 1st Save: On a fail, the creature is blinded for 1 minute or until it's obscured from view of the sphere's center. 2nd Save: On a failure, the creature gains two ranks of Weakened and 1 rank of Exhaustion. If this save is failed by 5 or more they are also stunned for 1 minute. A stunned creature can repeat its save at the end of each of its turns to end the stunned condition on itself on a pass. On consecutive turns, as an action you may launch a concentrated blast of raw Star Chakra in a 120-foot cone originating from 10 feet above you. You can fuel additional Star Chakra into this attack to deal extra damage. All creatures in the cone must make a Dexterity saving throw or take 10d10 + Xd10 (X = every 1 additional Star Chakra spent) Force damage, or half as much on a successful save. Once this attack has been made, the jutsu ends.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 63"
+        "source": "Tsunade's Studies Compendium Pg. 63"
     },
 
     "Celestial Apparition": {
@@ -3796,7 +3796,7 @@
             "Fuinjutsu"
         ],
         "description": "When you would die, or otherwise be reduced to 0 hit points, you can cast this jutsu to restore yourself to a ghostly form as your essence is manifested into pure star chakra. You gain an extra reaction that can only be used to cast this jutsu. This reaction cannot be negated by conditions or effects. Once cast, your body dies but you become a shimmering spirit comprised of Star Chakra gaining the following;\n\n• Equipment you carry is duplicated in your ghostly form, but when an item is no longer being worn or held by you it vanishes.\n\n• Your unarmed and weapon damage becomes force.\n\n• You have resistance to all damage besides necrotic, psychic, and chakra damage. This resistance cannot be overcome by any means.\n\n• You cannot regain or spend chakra points after this jutsu is cast. Instead, casting only your remaining Star Chakra for all features and jutsu. You regain a number an amount of Star Chakra equal to your level. If this amount exceeds your maximum then you gain the remainder in temporary hit points.\n\n• Your hit points remain at 0 and cannot exceed this amount, but you gain a number of temporary hit points equal to all current chakra you had before casting this jutsu. If you had 0 chakra, then you can spend a number of Star Chakra to gain temporary hit points (5 temp HP for every 1 Star Chakra). If these temporary hit points would reach 0, damage dealt to you reduces your Star Chakra total instead.\n\n• You cannot be revived or restored of Hit Points, even after the effects of this jutsu end.\n\n• You can immediately take an extra turn, entering yourself into initiative order at that moment.\n\n• This ghostly form lasts for 10 minutes or until you reach 0 temporary hit points and Star Chakra.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 64"
+        "source": "Tsunade's Studies Compendium Pg. 64"
     },
 
     "Demon Wave": {
@@ -3816,7 +3816,7 @@
             "Water Release"
         ],
         "description": "As a requirement to activate this jutsu, you must have Hydrofication currently active. You end your concentration on that jutsu and this one takes its place. You retain all effects of Hydrofication, including extra effects given to other jutsu and add this jutsu's effects to them. You cannot lose concentration of this jutsu as the result of failing a concentration check. Additionally, you can only cast jutsu with the Water Release keyword while this jutsu is active. You create and merge with a larger body of Water, increasing your size to huge and increasing your Strength score by +4 and Constitution score by +2. When you cast a jutsu with the Water Release keyword, it always gains the benefits of any alternative effects the jutsu could receive as the result of being cast near a source of water (excluding cost reduction) and are upcast by +1 ranks for free. If this would cause the jutsu to be cast beyond S-Rank, apply the effects of the upcast an additional time (if applicable). Additionally, as a reaction when you see an allied creature within 10 feet of you, targeted for an attack, you can interpose for that ally changing the target of that attack to you.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 73"
+        "source": "Tsunade's Studies Compendium Pg. 73"
     },
 
     "8-Trigrams 128 Palms": {
@@ -3836,7 +3836,7 @@
             "Taijutsu"
         ],
         "description": "This is the result of years of training and trying to achieve greater techniques than the main branch usually allows. This is the absolute peak of the Hyūga Gentle Fist technique within the Side Branch. As part of the requirements of this jutsu you must have Byakugan active and be benefitting from the Gentle Fist Stance and have the 8-Trigrams 64 palms learned. Make a three melee Taijutsu attack, comparing the result against all creatures of your choice AC within 10 feet of you as you dash between each one striking faster than the eye can see. On a hit, you deal your [Unarmed Damage] +3d8 Chakra damage and dealing half of the chakra damage dealt, as force damage the targets hit points and you can choose to either Disrupt III or Block III their chakra pathways. If the target creature has 0 Chakra, you instead deal double the result as force damage. Disrupt III: You increase the cost of all jutsu they cast by +15, until the end of your next turn. Block III: You force the target creature to make a constitution saving throw, becoming unable to mold Chakra for 3 of their turns (or Elite Actions). They can remake the saving throw to remove this effect at the end of their turns.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3 and damage by 1d8. If this jutsu is cast at S-Rank, creatures you strike suffer increased effects from Disrupt III and Block III. Disrupt III: You increase the cost of all jutsu they cast by +20, until the end of your next turn. Block III: You force the target creature(s) to make a constitution saving throw, becoming unable to mold Chakra for 4 of their turns (or Elite Actions).",
-        "source": "Jiraiya's Jutsu Compendium Pg. 79"
+        "source": "Tsunade's Studies Compendium Pg. 79"
     },
 
     "Lion Palm": {
@@ -3856,7 +3856,7 @@
             "Clash"
         ],
         "description": "The ultimate culmination of the Main Branches research and training. You release Chakra from your hands coating and molding it into two guardian lions with a visible but intimidating presence. For the Duration of this jutsu, you do not spend Chakra to maintain this jutsu. As part of the requirements of this jutsu you must have Byakugan active and be benefitting from the Gentle Fist Stance. Additionally, unarmed attacks using the Gentle Fist Stance and Hyūga Clan Hijutsu that make Melee Taijutsu attacks use a D10 damage die, Hyūga Clan Hijutsu have their costs reduced by -3 & Hyūga clan jutsu deal an extra damage die on a hit. As a Bonus action on your turn, you can make a Ranged Taijutsu attack on a creature you can see up to 30 feet away, firing off one of the Lions on your hand at them like a missile. On a Hit, you deal 3d10 + Taijutsu ability modifier in Force damage.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 79"
+        "source": "Tsunade's Studies Compendium Pg. 79"
     },
 
     "Body Oxidation Technique": {
@@ -3877,7 +3877,7 @@
             "Fire Release"
         ],
         "description": "As part of the requirements for casting this jutsu, you must be benefitting from the Smoke Form hijutsu. The signature jutsu of the Iburi clan, where the user enters the body of a creature and takes control of their actions. You cannot lose concentration on this jutsu as a result of taking damage. Select a creature within range. This creature must make a Charisma saving throw. On a failed save, you entire their body, rendering them incapacitated and unable to move. While in a creature's body, you feel all sensations their body feels and cannot take actions or reactions, or concentrate on other jutsu. Additionally, whenever the creature takes damage from an exterior source, you take half the damage they took as Necrotic damage. At the start of each of the creature's turns, they repeat the Charisma saving throw, expelling you from their body on a success, or remaining incapacitated and unable to move on failure. At the start of each of your own turns, you can impose a Constitution or Intelligence saving throw on the creature. After imposing either saving throw, your turn ends.\n\n• Constitution Save: On a failed Constitution saving throw, the creature takes 5d12 necrotic damage which bypasses resistance, immunity, and temporary hit points. The creature also gains 3 stacks of internal bleeding.\n\n• Intelligence Save: On a failed Intelligence saving throw, you command the creature to move and take 1 Action that they can take, other than a class or adversary feature. When this jutsu ends, you reappear in a space within 5 feet of the creature you were possessing, and automatically end your Smoke Form jutsu.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 84"
+        "source": "Tsunade's Studies Compendium Pg. 84"
     },
 
     "Orbital Drop": {
@@ -3897,7 +3897,7 @@
             "Fire Release"
         ],
         "description": "As part of the requirements for casting this jutsu, you must be benefitting from the Smoke Form hijutsu. You move up to your movement speed at a space within range and send yourself high into the air with a burst of smoke. Your body splits into 3 pillars of smoke that rise tangent to each other 200 feet into the air. As the smoke pillars rise, they are set on fire from the friction in the air. These pillars merge and reform into your body, and you begin hurling back down to earth like a missile. As you hit the ground, you create a massive explosion, annihilating creatures within a 120-foot sphere. Each creature within range must make a Dexterity saving throw, taking 10d10+10 Fire damage, gaining 3 ranks of Burned, and becoming blinded until the end of their next turn on a failed save. On a successful save, creatures take half damage and gain only 1 rank of Burned. If a creature possesses any ranks of Burned prior to being affected by this jutsu, this jutsu ignores any resistances and immunities to Fire damage the creature may have. The area this jutsu effects permanently becomes difficult terrain, and as this jutsu concludes, your Smoke Form jutsu automatically ends.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 84"
+        "source": "Tsunade's Studies Compendium Pg. 84"
     },
 
     "Tail Chasing Fang": {
@@ -3916,7 +3916,7 @@
             "Clash"
         ],
         "description": "As part of the requirements of this jutsu, you must have the Double Headed Wolf Inuzuka clan jutsu active. An ultra-violent variation on the Fang Wolf Fang technique where you curl into a ball and roll at a ferocious speed towards an enemy as if chasing after your own tail. Move up to 120 feet in any direction, being able to turn or change direction. At the end of your movement, all creatures in the path of your movement must make a Dexterity saving throw, taking 7d8 slashing & 7d8 piercing damage on a failed save, or half as much on a successful one.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 89"
+        "source": "Tsunade's Studies Compendium Pg. 89"
     },
 
     "Magnet Release: Dust Particle World": {
@@ -3937,7 +3937,7 @@
             "Wind Release."
         ],
         "description": "You create a two masses of dust particles of your description (Gold, Iron, Sand, Salt, Gravel) of opposing magnetic fields, and then merge them together, repelling the particles across a 40-foot\n\nradius sphere centered on a point you\n\nchoose within range. The particles then come together, forming massive arrays of spikes that branch off irregularly, making the\n\nspikes nearly impossible to evade, and the area very difficult to see through. For the duration, the jutsu's area is difficult terrain. Creatures attempting to see through the area have disadvantage. Any creature of your choice, that enters the jutsu's area for the first time on a turn or starts its turn there must make a constitution saving throw. The creature takes 4d10 piercing damage and 4d10 earth damage on a failed save becoming Envenomed, or half as much damage on a successful one. If an Envenomed creature fails this saving throw, the creature becomes stunned instead. If a creature fails this saving throw while stunned in this way, the creature instead becomes unconscious. A creature rendered unconscious from this jutsu no longer takes damage from it. A creature that is stunned or unconscious as a result of this jutsu and is no longer within this jutsu’s range, can make a constitution saving throw at the end of each of its turns. On a success, an unconscious creature becomes stunned instead and a stunned creature ends its stunned condition.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 95"
+        "source": "Tsunade's Studies Compendium Pg. 95"
     },
 
     "Obliteration Warp Cannon": {
@@ -3959,7 +3959,7 @@
             "Clash"
         ],
         "description": "Resting both your arms together, you transform them into a single, large chakra cannon. You cannot reduce this jutsu’s cost by any means. As part of casting this jutsu, you can choose to fire the cannon. The cannon shoots a beam in a 90ft cone that reduces a creatures Temporary Hit Points to 0, then deals 12d10 Force Damage. A successful saving throw halves their Temporary Hit Points and deals half damage instead. After the initial casting, you are able to choose to maintain the cannon. If you do, you gain the following effects:\n\n• Your Speed is set to 0.\n\n• You gain 10 DR against all damage (excluding Psychic)\n\n• You cannot be moved, knocked prone or stunned in any way.\n\n• As a Full Turn on your turn, you may choose one of the two options below:\n\no You fire the cannon in the same spot. Every creature in range must succeed a Constitution Saving Throw or have their Temporary Hit Points reduced to 0 and take 12d10 Force Damage. A successful save halves their Temporary Hit Points and halves the damage taken.\n\no You re-aim the cannon, turning up to 90 degrees. Every creature caught within the beam as it moves (still a 90ft cone) must succeed a Dexterity Saving Throw or lose any Temporary Hit Points and take 6d10 Force Damage. A successful save halves their Temporary Hit Points and halves the damage taken. At the start of each of your turns, you may choose to end this jutsu and de-form the cannon. You do not always have to fire the cannon each turn. The concentration cost cannot be reduced or ignored by any means, but you only pay the concentration cost if you fire the cannon. Raw Chakra Form: If you cast this jutsu within your Raw Chakra Form, you can move 10ft each turn before or after firing.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3, the range by 10 feet, and the damage by 2d10.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 101"
+        "source": "Tsunade's Studies Compendium Pg. 101"
     },
 
     "Dance of the Seedling Fern": {
@@ -3977,7 +3977,7 @@
             "Bukijutsu"
         ],
         "description": "The perfected and final dance of the Kaguya clan. The Sixth and final dance is also the most devastating and deadly. By means of this technique you focus and empower your bones before sending them through the ground around you, expanding them and having them rise like trees in a forest. Creatures in range other than you, must make a Dexterity saving throw taking 11d8 Piercing damage on a failed save, or half as much on a successful one. The bone forest remains for 1 minute after casting this jutsu. The bone pillars are 10 to 15 feet tall and occupy a portion of each space in range. Creatures moving within the affected area must spend 3 feet of movement for every 1 feet traveled (5 traveled costs 15 feet of speed). You can fuse into and teleport freely throughout the bone forest, up to twice per turn. Bone pillars have 45 hit points. If a bone pillar takes damage while you’re inside, you take any remaining damage the bone pillar could not. At the end of the 1-minute duration after this jutsu was cast, the bones dissolve into clay like clumps.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 107"
+        "source": "Tsunade's Studies Compendium Pg. 107"
     },
 
     "Demonic Instrument: Chains of Phantasia": {
@@ -3999,7 +3999,7 @@
             "Tactile"
         ],
         "description": "You play a demonic sound, creating a dark hellscape where only pain and suffering exist for all those under the effects of this genjutsu. All creatures within range must make a Wisdom save. Critical Success: The target suffers no effects and is immune to this genjutsu for the next 24 hours. Success: The target takes no damage and suffers no additional effects. Failure: The target takes 10d8 Psychic damage, and is restrained as threads wrap around them. Critical Failure: The target takes 10d8 Psychic damage, and is restrained and cannot take actions as threads wrap around them. Creatures under the effects of this genjutsu are Blind and Deaf to all other creatures outside the caster. At the end of a creatures turn they may remake the save to end the effects of this genjutsu on themselves otherwise taking an additional 10d8 damage. If a creature under the effects of this genjutsu takes any damage besides psychic damage, they immediately remake the save at advantage. If a creature has 0 chakra, this jutsu instead deals 20d8 psychic damage.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 113"
+        "source": "Tsunade's Studies Compendium Pg. 113"
     },
 
     "Plasma Release: Chaos Destruction Wave": {
@@ -4020,7 +4020,7 @@
             "Lightning Release"
         ],
         "description": "You cusp both hands, charging an orb of growing plasma before finally releasing it in a 120-footlong, 10-foot-wide line of destruction. All creatures within range must make a Dexterity saving throw, taking 9d10+9 lightning Damage on a failed save or half on a success. A creature with the burned condition makes this saving throw at disadvantage. Creatures who fail their Dexterity saving throw must make a Constitution saving throw at disadvantage, becoming burned, and becoming stunned the end of their next turn on a failed save.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3, and increase the damage by 3d10+3.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 117"
+        "source": "Tsunade's Studies Compendium Pg. 117"
     },
 
     "Steel Release: Metal Prison": {
@@ -4041,7 +4041,7 @@
             "Construct"
         ],
         "description": "You constrict and bind a creature with metal, choose one creature in range, they must make a Strength saving throw, being Restrained by the metal prison. While restrained this way, the creature has full cover, and if they attempt to cast a jutsu with the HS component, they must succeed a Ninshou check at disadvantage against your Ninjutsu Save DC or else the jutsu fails to be cast and the chakra is wasted. The metal prison has an AC equal to your Ninjutsu Save DC and 120 Hit Points. The metal prison is resistant to all damage excluding lightning damage. A creature can attempt to remake the Strength Saving throw at the end of each of their turns to end being restrained. Each time a creature fails the Strength saving throw the DC increases by 1 to a max of +5",
-        "source": "Jiraiya's Jutsu Compendium Pg. 121"
+        "source": "Tsunade's Studies Compendium Pg. 121"
     },
 
     "Unfettered Foresight": {
@@ -4060,7 +4060,7 @@
             "Ninjutsu"
         ],
         "description": "(As a part of the casting of this Jutsu you must have the Kurugan active.) You release all limiters on your Kurugan, allowing you to freely see all possible events pertaining to you, filtering through thousands of possible futures. For the duration of your Kurugan, you cannot be surprised by anything, your skill checks & saving throws have advantage. All other hostile creatures have disadvantage on attack rolls against you for the duration. You always know what time it is, and the exact moment a minor event will happen, such as a bell ringing, or someone’s name being called in your vicinity. Additionally, you can, as an action touch one creature you can reach, and peer into their immediate future, casting Sealing Art: Divination Technique at no cost ignoring the HS, CM, CS components, allowing you to see their future. If you have Pierce the Veil active, your Kurugan features have no use limit for the duration. At the conclusion of this jutsu, you expend all uses of your Kurugan features until you complete a long rest.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 128"
+        "source": "Tsunade's Studies Compendium Pg. 128"
     },
 
     "Dark Displacement": {
@@ -4082,7 +4082,7 @@
             "Fuinjutsu"
         ],
         "description": "(As a part of the casting of this Jutsu you must have the Kurugan active.) By focusing the chakra used to peer into the future you are able to grab ahold of the power of temporal shifts focusing it around your hands.\n\nDoing this ages your arm faster than your body, ever-so-slightly. Make a melee Ninjutsu or Taijutsu Attack\n\nagainst a target you can see in range. On a hit you deal 9d10 Necrotic Damage to the target creature. The target must make a Charisma saving throw, reducing their maximum hit point by half of the damage dealt. If a targets maximum Hit points reach 0, they age to dust being unable to be revived by any means. A creature can restore the maximum hit point value by casting a Ninjutsu with the Medical keyword that removes conditions of A-Rank or higher.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 128"
+        "source": "Tsunade's Studies Compendium Pg. 128"
     },
 
     "Swift Release: Speed Siphon": {
@@ -4103,7 +4103,7 @@
             "Lightning Release."
         ],
         "description": "Your mastery of Swift Release allows you to remove speed from one creature within range. Select a creature you can see within range. You begin to attempt to drain them of their movement and speed. Target creature, at the beginning of each of their turns, must make a Constitution saving throw. On a failed save, they gain 2 ranks of Weakened and Slowed. While the target is slowed or weakened in this way, the target cannot gain bonuses to speed by any means. The target also has disadvantage on all attack rolls, skill checks and saving throws except Constitution skill checks and saving throws, as its speed, reaction time, and movement ability to being taken away. Finally, if a target tries to cast a jutsu, it must first make a Constitution saving throw. On a failed save the target fails the jutsu’s casting, and the Chakra is wasted as if they cast the jutsu. A target suffering from this speed siphoning make a constitution saving throw at the end of each of its turns. On a successful save, they remove 1 rank of the Slowed or Weakened conditions, of their choice. The target gains an additional application of the slowed or weakened condition each time it fails its saving throw.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 133"
+        "source": "Tsunade's Studies Compendium Pg. 133"
     },
 
     "Shadow Web Execution": {
@@ -4122,7 +4122,7 @@
             "Ninjutsu"
         ],
         "description": "As part of the requirements of this jutsu, you must know the Black Spider Lily Jutsu active and have at least 1 creature restrained by a Nara Clan Hijutsu. As a Bonus action, all creatures currently captured must succeed a constitution saving throw. On a failed save affected creatures take 12d8 Necrotic damage and suffer 1 rank of Exhaustion or half as much on a successful save and no further effects.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 137"
+        "source": "Tsunade's Studies Compendium Pg. 137"
     },
 
     "Storm Release: Laser Circus": {
@@ -4144,7 +4144,7 @@
             "Laser Style"
         ],
         "description": "You Fire an absurd amount of Lightning beams towards up to 10 targets of your choice. You make a ranged ninjutsu attack per creature, against your selected target(s) within range. You can direct any number of these beams towards a single target or many, up to the number of beams you fire (Still making a single attack roll per creature). On a hit, you deal 1d12 per beam directed at a target, plus your Ninjutsu ability modifier. These beams ignore cover.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 144"
+        "source": "Tsunade's Studies Compendium Pg. 144"
     },
 
     "Storm Release: Raging Wave": {
@@ -4166,7 +4166,7 @@
             "Storm Style"
         ],
         "description": "An advanced version of Water Release: Maelstrom, you expel an enormous amount of Water from your mouth, simultaneously charging it with Lightning, and making it swirl in a 30-foot radius around you. Until the jutsu ends, this area is difficult terrain for any creature except you, and any creature that starts its turn there or moves there for the first time on their turn must succeed on a Strength saving throw. On a failed save, a creature takes 7d10 Lightning damage and is pushed 15 feet away from the center of the area. On a successful save, a creature takes half as much damage, and is only pushed 5 feet away. Additionally, a creature that starts its turn in the area or moves there for the first time on their turn must also succeed on a Constitution saving throw, gaining 3 ranks of shocked and 1 rank of weakened on a failed save.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 144"
+        "source": "Tsunade's Studies Compendium Pg. 144"
     },
 
     "Dragons Ascension": {
@@ -4185,7 +4185,7 @@
             "Ninjutsu"
         ],
         "description": "You keep all of your Chakra inside you not allowing any of it to leak out enhancing your physical attributes past their limits, matching your physical prowess to that of a Dragons. Your Strength, Dexterity and Constitution all becomes 24 for the duration. Your speed is doubled and you gain more feral sounding speaking patterns. You gain a +2 bonus on Intelligence and Charisma saving throws. You lose the ability to cast and concentrate on Non-Ryu Clan jutsu for the duration. When this jutsu ends, make a constitution save vs a DC 20 + 1 for every round this jutsu remained active. On a failure, you fall to the ground prone and stunned for a number of minutes equal to rounds you had this jutsu active. If you cast this jutsu while you are gaining the benefits of Dragons Rage, Dragons Wrath or Dragons Cloak you reduce the cost of this jutsu by 4 for each one currently active. Additionally, if you are gaining the benefits of Dragons Wrath and/or Dragons Cloak you no longer need to maintain concentration on that jutsu but you still gain its benefits for the duration of this",
-        "source": "Jiraiya's Jutsu Compendium Pg. 149"
+        "source": "Tsunade's Studies Compendium Pg. 149"
     },
 
     "Wood Release: Tree Bind Flourishing Burial": {
@@ -4209,7 +4209,7 @@
             "Construct"
         ],
         "description": "You clap your hands together as you inject Chakra into the ground. Bringing a large surge of vitality into the foliage deep in the ground. Select a space you can see within range. A massive tree, 90-feet tall and 30 feet wide, made of roots, explodes upwards attempting to capture all creatures in its path. This jutsu’s counts as a Quake Shard. All creatures in a 30-foot wide, 90-foot-high cylinder must make a Strength saving throw, being restrained on a failed save, as the tree completely captures, overtakes, and binds them inside it. On a successful save, they escape the binding of the tree’s roots. Creatures who failed the saving throw gain 3 ranks of Sealed, have total cover from all creatures both inside and outside the tree and begin to feel immense pressure, as the tree begins to compress and feed off of their biological mass as nutrients. Restrained creatures take 7d8 Earth and Chakra damage at the beginning of each of their turns. A restrained creature can use an action on its turn, to make a Strength saving throw. Once they succeed twice, they fully escape this jutsu’s bindings. A creature who’s hit points reach 0 while under the effects of this jutsu becomes a part of the tree. The Tree conjured by this jutsu remains and does not dissolve. The Tree Conjured by this jutsu has 100 Hit points and 25 AC.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 156"
+        "source": "Tsunade's Studies Compendium Pg. 156"
     },
 
     "Scorch Release: Majestic Violent Murdering Hellfire Destroyer": {
@@ -4231,7 +4231,7 @@
             "Clash"
         ],
         "description": "You conjure an innumerable number of globes of superheated flame, fusing them, to create a single massive sphere of super-heated flame. Make a ranged ninjutsu attack against a target you can see within range, dealing 8d12+8 Fire damage on a hit. Regardless if you hit or miss, all other creatures within 60 feet of the original target must succeed a Constitution Saving Throw taking 3d12+3 Fire damage and being Burned on a failed save. Creatures who’s hit points are reduced to 0 as a result of this jutsu are turned to dust and leave behind only a shadow of their physique stained in ash on the ground or wall. You can spend motes created by the Scorch Release: Scorching Murder to enhance this jutsu. For every mote spent, increase both instances of damage by 1d12+1. You can spend up to 6 motes this way.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 161"
+        "source": "Tsunade's Studies Compendium Pg. 161"
     },
 
     "Dance of the Shikigami": {
@@ -4249,7 +4249,7 @@
             "Ninjutsu"
         ],
         "description": "With your mastery of paper, you turn yourself into a paper angel, with a body untouchable by mundane weaponry and the ability to take to the skies. Until this jutsu ends, you gain the following benefits:\n\n• You gain Resistance to bludgeoning, piercing, and slashing damage.\n\n• You gain a flying speed of 60 feet. You can use your Bonus Action to select a space you can see up to 60 feet away. All creatures in a 15-foot cube centered on this space must succeed a Dexterity Saving Throw. On a failed save, creatures take 6d8 Piercing damage and gains the Lacerated condition, or half as much damage on a successful saving throw. You have advantage on checks to maintain Concentration on this Jutsu.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 169"
+        "source": "Tsunade's Studies Compendium Pg. 169"
     },
 
     "Crystal Release: Crystal Imprisonment Wave": {
@@ -4269,7 +4269,7 @@
             "Earth Release"
         ],
         "description": "As a part of casting this jutsu, you must know the Crystal Release: Crystal Prison Hijutsu. You perform the Crystal Release: Crystal Prison Hijutsu, but on a massive scale, affecting all creatures within range. Each creature within a 30-foot radius, must make a Dexterity saving throw. On a failed save, they fall under the effects of the Crystal Release: Crystal Prison as if you hit them.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 174"
+        "source": "Tsunade's Studies Compendium Pg. 174"
     },
 
     "Twin Snakes Mutual Death Technique": {
@@ -4289,7 +4289,7 @@
             "Kinjutsu"
         ],
         "description": "In order to cast this jutsu, you must unite at least one hand with the target creature that must be under the restrained or grappled condition. The user grabs one of their intended victim's hands and forces it to assist in performing the necessary hand seals. Once this is done, the user and the victim both die instantaneously.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 179"
+        "source": "Tsunade's Studies Compendium Pg. 179"
     },
 
     "Nature Snake: Great Snake Strike": {
@@ -4308,7 +4308,7 @@
             "Ninjutsu"
         ],
         "description": "An evolved version of the Nature Release: Nature Snake Hijutsu. The user generates multiple snake constructs of chakra to swarm and attack all creatures in a 60-foot cone, originating from a point within 60 feet. All creatures within range must make a Strength saving throw, taking 8d10 force damage and being knocked prone. Creatures who fail this saving throw by 5 or more become restrained until the start of their next turn, as they are constricted and restrained by snakes. On a successful saving throw, creatures take half as much damage and no further effects.\n\nAlternatively, if you have access to a Nature Release, you may pick one of the following effects, replacing this jutsu’s normal effects (excluding the fail by 5 or more effect);\n\n• Earth: Creatures instead take 4d10 bludgeoning and 4d10 earth damage, and gain 2 ranks of Bruised on a failed saving throw.\n\n• Wind: This jutsu gains an additional 30 feet of range and increases the size of its cone by +10ft. Creatures instead take 5d6 slashing and 5d6 wind damage and gain one rank of Bleeding on a failed saving throw.\n\n• Fire: Creatures instead 14d4+14 fire damage and gain 1 rank of Burned on a failed saving throw.\n\n• Water: Creatures instead take 10d6 cold damage and gain 1 rank of Chilled, fall prone, and are knocked back 15 feet on a failed saving throw. The affected area becomes a source of water for the next minute for jutsu of B-Rank or lower.\n\n• Lightning: Creatures instead take 6d12 lightning damage and are Shocked and Weakened for 1d4 rounds on a failed saving throw (roll once, for all affected creatures).",
-        "source": "Jiraiya's Jutsu Compendium Pg. 179"
+        "source": "Tsunade's Studies Compendium Pg. 179"
     },
 
     "Spider Nest Summoning: Rain of Spiders": {
@@ -4328,7 +4328,7 @@
             "Fuinjutsu"
         ],
         "description": "You draw out one of your clans secret summoning scrolls, releasing a large nest of spiders that all attack in a 30-foot radius, 60 feet tall cylinder centered on you. Creatures in the target area must make a Strength Saving Throw, being Restrained & Incapacitated for the duration, on a failed save. Creatures affected by this jutsu can make an Athletics Check vs your Ninjutsu Save DC to escape at the end of each of their turns.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 183"
+        "source": "Tsunade's Studies Compendium Pg. 183"
     },
 
     "Uchiha Flame Spiral": {
@@ -4348,7 +4348,7 @@
             "Fire Release"
         ],
         "description": "The ultimate Uchiha Fire Release. As part of the requirements of this jutsu, you must have the Sharingan active. You conjure three flaming tornados. Each tornado is a column with a radius of 5 feet, and a height of 30 feet. Creatures within the tornadoes areas when you cast this jutsu and whose space the tornadoes pass through must make a Dexterity saving throw taking 10d10+10 Fire damage on a failed save or half as much on a successful one. Additionally, a creature who would make a saving throw to resist the effects of this jutsu must also make a constitution saving throw, being burned on a failed save. As a bonus action on each of your turns, you may command each tornado separately, moving them up to 60 feet each. A tornado cannot occupy the same space as another tornado. A creature cannot be affected by more than 1 tornado per turn. The Flaming tornados can be dispersed with enough force. The Flaming Tornados has an AC equal to your Ninjutsu save DC, and hit points equal to ten times your\n\nNinjutsu Ability Modifier. The Flaming Tornado counts as a flaming construct, has vulnerability to cold damage, and when damaged by Wind damage, regains hit points equal to the damage the jutsu would have dealt.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 189"
+        "source": "Tsunade's Studies Compendium Pg. 189"
     },
 
     "Uzumaki Art: River Dam Seal": {
@@ -4369,7 +4369,7 @@
             "Fuinjutsu"
         ],
         "description": "As a part of the activation of this jutsu. The target must have at least 5 ranks of Sealed. You generate an infamous seal that grows in size so much so that it encompasses up to a 60-foot radius before instantly compressing down into a 1 kanji seal that can say or mean anything you wish. Make a melee Ninjutsu attack against the target. On a hit the seal wraps itself around the target warping the seals on them into a new and unique seal known as the River Dam Seal. River Dam Seal. This hyper powerful seal causes the target to lose all ranks of the Sealed condition as this effect replaces them. Creatures with this seal placed upon them suffer the following effects;\n\n• A creature with the River Dam Seal is counted as having 5 ranks of the Sealed condition for the purposes of interacting with features, traits and jutsu and cannot gain ranks of the Sealed condition while they have the River Dam Seal.\n\n• A creature with the River Dam Seal increases the base chakra cost of all Jutsu, features and traits that cost chakra by +15.\n\n• A creature with the River Dam Seal suffers a -5 penalty to all of their Ninjutsu & Genjutsu Save DCs.\n\n• A creature can spend a Full Turn Action to make a DC 25 Ninshou check to remove this condition.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 194"
+        "source": "Tsunade's Studies Compendium Pg. 194"
     },
 
     "Throatslicer": {
@@ -4388,7 +4388,7 @@
             "Finisher"
         ],
         "description": "To cast this jutsu, you must be benefitting from the Claws of Night jutsu. You make a single quick cut to a creature’s throat with your claws. Make a Taijutsu Attack. On a hit, you deal your [Unarmed Damage] + 9d8 Slashing Damage, and the target must succeed a Constitution saving throw or become Dazed and Lacerated. If this jutsu is used as a Finisher, the damage is instead your [Unarmed Damage] + 10d10 slashing, and on a failed saving throw, the target is Incapacitated until the end of their next turn and gains 3 ranks of Lacerated. If a creature reaches 0 hit points as the result of this jutsu, they immediately die as you slice their throat.\n\nAt Higher Ranks: For each rank you cast this jutsu above D-Rank, increase the cost of this jutsu by 3 and the damage by 2d8 or 2d10 respectively.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 198"
+        "source": "Tsunade's Studies Compendium Pg. 198"
     },
 
     "Multi-Swing Style: Final Cut": {
@@ -4407,7 +4407,7 @@
             "Hijutsu"
         ],
         "description": "This jutsu can only be cast immediately after Multi-Swing Style: Third Cut, and must target the same creature. You step back slightly and perform one final cut attempting to behead the creature. Make a melee taijutsu attack. On a hit you deal your weapons damage + 12d12, rerolling 1’s and 2’s taking the second result and the creature gains 5 ranks of lacerated. If you roll 4 or more 12’s on a d12, with this jutsu’s damage die, the creature is immediately beheaded. If the target creature is stunned when you cast this jutsu, and you beat their AC by 5 or more, this attack automatically scores a critical hit. After casting this jutsu you gained the Dazed condition until the end of your next turn.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 202"
+        "source": "Tsunade's Studies Compendium Pg. 202"
     },
 
     "Mind Puppet Switch: Cursed Seal": {
@@ -4429,7 +4429,7 @@
             "Fuinjutsu"
         ],
         "description": "You take a puppet, doll, or an item of humanoid shape, no smaller than 1 size category of the target and place a secret Yamanaka sealing jutsu on the item. You can only have one such item created at a time and creating another destroys the existing item. You create conditions and triggers for the seal beforehand and place them on the item. Once placed, when a creature triggers the chakra seal, the triggering creature must immediately succeed a Charisma Saving throw against your Genjutsu or Ninjutsu save DC (Whichever is higher). On a failed save, the target creature's consciousness is sealed inside of the item used. While sealed, the target creatures’ body immediately becomes Incapacitated as their consciousness is now locked away inside of an object of the user’s choice. They do not have the capacity to make any further saves unless their original body is damaged, in which case they can attempt a Charisma Saving Throw to escape. If the item is destroyed this jutsu ends and the creature's consciousness attempts to re-enter their body. If the body is dead, their consciousness is trapped wandering unable to bind to anyone or anything, they are effectively dead and cannot be revived.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 207"
+        "source": "Tsunade's Studies Compendium Pg. 207"
     },
 
     "Great Mind-Body Synchronization": {
@@ -4450,7 +4450,7 @@
             "Sensory"
         ],
         "description": "You focus all of your being inwards, and open your mind to all willing creatures within a mile of you, establishing a telepathic link, with the ability to transfer information and lend aid at the speed of thought. Until the jutsu ends, you and all willing creatures are aware of all other creatures under the effects of this jutsu, and can instantaneously share words, images, sounds, and other sensory messages with any number other creatures affected by this jutsu, and the recipients are aware of who communicates with them. Additionally, affected creatures gain 2 ranks of Mastery to their perception and insight and gain a +1 bonus to their AC.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 207"
+        "source": "Tsunade's Studies Compendium Pg. 207"
     },
 
     "Lava Release: Planet-Branding Blast": {
@@ -4471,7 +4471,7 @@
             "Fire Release"
         ],
         "description": "You punch the ground and conjure an eruption of lava and magma, enough to fill a 45-foot cube originating from you. All creatures in range, must succeed a Dexterity saving throw taking 10d10 Fire damage and gaining 1 rank of Burned, Corroded and Bruised on a failed save and half as much damage on a successful save. Additionally, the affected area becomes filled with lava, pooling until it is covered in a thin sheet of it. For the next 10 minutes, this area is treated as hazardous terrain filled with lava. Creatures, structures and constructs that would begin their turn in or would enter this hazardous area for the first time on their turn take 1d10 Fire damage and must succeed a Constitution Saving Throw or gain 1 rank of Burned and Weakened.\n\nAt Higher Ranks: For each rank you cast this jutsu above A-Rank, increase the cost of this jutsu by 3, damage by 2d10, and the cube size by 15 feet.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 211"
+        "source": "Tsunade's Studies Compendium Pg. 211"
     },
 
     "Demonic Ice Mirrors": {
@@ -4492,6 +4492,6 @@
             "Wind Release"
         ],
         "description": "You create a dome of Chakra enhanced reflective Ice mirrors. This dome encompasses a 20-foot radius and the enhanced mirrors line the radius of the dome. Each mirror is 4 feet wide and 6 feet tall. Upon manifestation you create enough mirrors to occupy the outside radius of the sphere leaving about 2 feet of space between each mirror on each side. You meld inside one of the Ice mirrors and gain the ability to teleport to any other ice mirror within this jutsu’s radius, by spending 5 feet of movement. While inside of your Demonic Ice Mirrors you are nearly imperceptible, as your ice mirrors make perfect duplicates of yourself reflect on their surface. While in your ice mirrors, creatures are unaware of your location. Each time you make an attack, or use your movement to teleport, each creature within the dome can make a perception check at disadvantage against your Ninjutsu Save DC at disadvantage, to find your location. Creatures with Chakra Sight instead make this check at advantage. Also, while inside of your Demonic Ice Mirrors, you gain a +5 bonus to AC and have advantage on Dexterity saving throws, and gain access to the following special actions; Reflective Ice Needles. As an Action, make three ranged attacks, targeting all creatures within the radius of the Demonic Ice Mirrors, dealing 4d8 cold damage. Reflective Frost Dispersal. As a reaction to creatures attempting to move more than 10 feet while inside the radius the mirrors, you make two melee/ranged Ninjutsu attacks, dealing 4d6 cold damage to the target and reducing their movement speed to 0. The first time you use this reaction per round, you gain two additional reactions until the start of your next turn (Taking Elite Actions does not remove these reactions early). These reactions can only be used to take this special reaction again. Creatures inside the radius of your jutsu can move freely throughout the radius of it. A creature who wishes to leave the radius can make a Dexterity save attempting to squeeze through your mirror.",
-        "source": "Jiraiya's Jutsu Compendium Pg. 216"
+        "source": "Tsunade's Studies Compendium Pg. 216"
     }
 }
